@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+language: en
+pipeline: supervised_embeddings
+
+policies:
+- epochs: 2000
+  name: KerasPolicy

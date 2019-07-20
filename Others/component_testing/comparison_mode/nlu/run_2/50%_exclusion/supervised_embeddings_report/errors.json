@@ -1,0 +1,66 @@
+[
+  {
+    "text": "I am interested in your programm, is there any particular admission conditions",
+    "intent": "master_admission_requirements",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.6077879667282104
+    }
+  },
+  {
+    "text": "I am interested in your MPMD, is there any specific admission requisites",
+    "intent": "master_admission_requirements",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.7252393960952759
+    }
+  },
+  {
+    "text": "i must know which relating to the requirements",
+    "intent": "master_admission_requirements",
+    "intent_prediction": {
+      "name": "master_location",
+      "confidence": 0.5017330646514893
+    }
+  },
+  {
+    "text": "would I possess a valid master degree after achieving this MPMD",
+    "intent": "master_degree",
+    "intent_prediction": {
+      "name": "master_further_qualification_opportunities",
+      "confidence": 0.6828937530517578
+    }
+  },
+  {
+    "text": "i want to know which referring to the capital",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_location",
+      "confidence": 0.6535400152206421
+    }
+  },
+  {
+    "text": "thanks a bunch for everything",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "master_scholarships",
+      "confidence": 0.767498254776001
+    }
+  },
+  {
+    "text": "cheers bro",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "cheers",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "text": "greetings",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "could I apply next year",
+    "intent": "master_application_period",
+    "intent_prediction": {
+      "name": "master_scholarships",
+      "confidence": 0.5269272923469543
+    }
+  },
+  {
+    "text": "can I apply next month",
+    "intent": "master_application_period",
+    "intent_prediction": {
+      "name": "master_career_opportunities",
+      "confidence": 0.3864949643611908
+    }
+  },
+  {
+    "text": "i need to know how can I connect with the programm manager",
+    "intent": "master_contact",
+    "intent_prediction": {
+      "name": "master_semester_content",
+      "confidence": 0.5818929672241211
+    }
+  },
+  {
+    "text": "how can i start the master",
+    "intent": "master_how_to_apply",
+    "intent_prediction": {
+      "name": "master_career_opportunities",
+      "confidence": 0.4285162687301636
+    }
+  },
+  {
+    "text": "tell me in the matter of the capital",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_admission_requirements",
+      "confidence": 0.8536853790283203
+    }
+  },
+  {
+    "text": "i want to know which is the expenditure in dollars?",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_admission_requirements",
+      "confidence": 0.6674758791923523
+    }
+  },
+  {
+    "text": "i want to know what relating to the installments",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_admission_requirements",
+      "confidence": 0.9345353245735168
+    }
+  },
+  {
+    "text": "grazie",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  }
+]

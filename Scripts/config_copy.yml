@@ -1,0 +1,10 @@
+%YAML 1.1
+---
+language: en
+pipeline: pretrained_embeddings_spacy
+policies:
+- core_threshold: 0.3
+  fallback_action_name: action_default_fallback
+  name: FallbackPolicy
+  nlu_threshold: 0.8
+- name: MappingPolicy

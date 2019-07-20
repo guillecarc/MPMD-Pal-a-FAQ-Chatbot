@@ -1,0 +1,58 @@
+[
+  {
+    "text": "i must know which relating to the requirements",
+    "intent": "master_admission_requirements",
+    "intent_prediction": {
+      "name": "master_tuition_fees",
+      "confidence": 0.8884037660456457
+    }
+  },
+  {
+    "text": "i must know which is the diploma",
+    "intent": "master_degree",
+    "intent_prediction": {
+      "name": "master_tuition_fees",
+      "confidence": 0.3410563964479723
+    }
+  },
+  {
+    "text": "would you bestow payment",
+    "intent": "master_scholarships",
+    "intent_prediction": {
+      "name": "canthelp",
+      "confidence": 0.3925977018643457
+    }
+  },
+  {
+    "text": "i want to know which referring to the capital",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_location",
+      "confidence": 0.43785605079016576
+    }
+  },
+  {
+    "text": "thanks a bunch for everything",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "master_electives",
+      "confidence": 0.23854469671267417
+    }
+  },
+  {
+    "text": "cheers bro",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.7141160909869907
+    }
+  },
+  {
+    "text": "cheers",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9141045260189941
+    }
+  }
+]

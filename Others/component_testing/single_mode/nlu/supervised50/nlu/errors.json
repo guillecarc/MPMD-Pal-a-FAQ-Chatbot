@@ -1,0 +1,146 @@
+[
+  {
+    "text": "i would like to know which is the expenditure in dollars?",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_program_content",
+      "confidence": 0.6303041577339172
+    }
+  },
+  {
+    "text": "i need to know what are payment options to grant the tuition",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_scholarships",
+      "confidence": 0.7540602684020996
+    }
+  },
+  {
+    "text": "Are the classes taught in english?",
+    "intent": "master_language",
+    "intent_prediction": {
+      "name": "master_semester_content",
+      "confidence": 0.7689354419708252
+    }
+  },
+  {
+    "text": "grazie",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "i need to know how much do i need to meet",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_how_to_apply",
+      "confidence": 0.7673465609550476
+    }
+  },
+  {
+    "text": "Do I need to know german to attend this program",
+    "intent": "master_language",
+    "intent_prediction": {
+      "name": "master_program_content",
+      "confidence": 0.8066964745521545
+    }
+  },
+  {
+    "text": "i would like to know what is the master's projection",
+    "intent": "master_career_opportunities",
+    "intent_prediction": {
+      "name": "master_program_content",
+      "confidence": 0.8838617205619812
+    }
+  },
+  {
+    "text": "gracias",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "which in the matter of the essentials",
+    "intent": "master_admission_requirements",
+    "intent_prediction": {
+      "name": "master_semester_content",
+      "confidence": 0.4233337938785553
+    }
+  },
+  {
+    "text": "I need to start the master",
+    "intent": "master_how_to_apply",
+    "intent_prediction": {
+      "name": "master_start",
+      "confidence": 0.6310515403747559
+    }
+  },
+  {
+    "text": "i do not suppose you can do what i want",
+    "intent": "canthelp",
+    "intent_prediction": {
+      "name": "master_scholarships",
+      "confidence": 0.7612339854240417
+    }
+  },
+  {
+    "text": "danke",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "i need to know where could I find the syllabus",
+    "intent": "master_semester_content",
+    "intent_prediction": {
+      "name": "master_location",
+      "confidence": 0.7004356384277344
+    }
+  },
+  {
+    "text": "i would like to know what respecting the check",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_program_content",
+      "confidence": 0.49297070503234863
+    }
+  },
+  {
+    "text": "i would like to know which is the programm with respect to",
+    "intent": "master_program_content",
+    "intent_prediction": {
+      "name": "master_tuition_fees",
+      "confidence": 0.7870228886604309
+    }
+  },
+  {
+    "text": "when could I apply",
+    "intent": "master_application_period",
+    "intent_prediction": {
+      "name": "master_scholarships",
+      "confidence": 0.5586470365524292
+    }
+  },
+  {
+    "text": "i would like to know how can i start the MPMD",
+    "intent": "master_how_to_apply",
+    "intent_prediction": {
+      "name": "master_career_opportunities",
+      "confidence": 0.5867705941200256
+    }
+  },
+  {
+    "text": "i would like to know how can i enter the master",
+    "intent": "master_how_to_apply",
+    "intent_prediction": {
+      "name": "master_career_opportunities",
+      "confidence": 0.7746392488479614
+    }
+  }
+]

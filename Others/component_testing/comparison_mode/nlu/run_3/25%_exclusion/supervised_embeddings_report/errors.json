@@ -1,0 +1,74 @@
+[
+  {
+    "text": "i need to know which is the master's prospect",
+    "intent": "master_career_opportunities",
+    "intent_prediction": {
+      "name": "master_language",
+      "confidence": 0.7026790380477905
+    }
+  },
+  {
+    "text": "i want to know how long is the MPMD",
+    "intent": "master_duration",
+    "intent_prediction": {
+      "name": "master_semester_content",
+      "confidence": 0.6473315358161926
+    }
+  },
+  {
+    "text": "Are there further opportunities for PhD studies",
+    "intent": "master_further_qualification_opportunities",
+    "intent_prediction": {
+      "name": "master_scholarships",
+      "confidence": 0.6642482280731201
+    }
+  },
+  {
+    "text": "i must know when is it starting",
+    "intent": "master_start",
+    "intent_prediction": {
+      "name": "master_application_period",
+      "confidence": 0.7429121136665344
+    }
+  },
+  {
+    "text": "i would like to know what are payment options to grant the cost",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_scholarships",
+      "confidence": 0.7190190553665161
+    }
+  },
+  {
+    "text": "i want to know what relating to the installments",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_location",
+      "confidence": 0.8485330939292908
+    }
+  },
+  {
+    "text": "how many payments are needed to disburse off the programm",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_duration",
+      "confidence": 0.9579172134399414
+    }
+  },
+  {
+    "text": "tell me in the matter of the capital",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_location",
+      "confidence": 0.6105682849884033
+    }
+  },
+  {
+    "text": "how many payments are needed to pay off the programm",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_duration",
+      "confidence": 0.9538589119911194
+    }
+  }
+]

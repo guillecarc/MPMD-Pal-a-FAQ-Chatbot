@@ -1,0 +1,42 @@
+[
+  {
+    "text": "greetings",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "i need to know how can I connect with the programm manager",
+    "intent": "master_contact",
+    "intent_prediction": {
+      "name": "master_semester_content",
+      "confidence": 0.5176399946212769
+    }
+  },
+  {
+    "text": "would I get a valid master degree after completing this programm",
+    "intent": "master_degree",
+    "intent_prediction": {
+      "name": "master_further_qualification_opportunities",
+      "confidence": 0.5911723375320435
+    }
+  },
+  {
+    "text": "thank bot",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.6131358742713928
+    }
+  },
+  {
+    "text": "grazie",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  }
+]

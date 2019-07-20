@@ -1,0 +1,31 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": []
+    },
+    "utter_master_duration": {
+      "slots": []
+    },
+    "utter_master_language": {
+      "slots": []
+    },
+    "utter_master_career_opportunities": {
+      "slots": []
+    },
+    "utter_bye": {
+      "slots": []
+    }
+  },
+  "python": "3.6.8",
+  "max_histories": [
+    null
+  ],
+  "ensemble_name": "rasa.core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa.core.policies.embedding_policy.EmbeddingPolicy"
+  ],
+  "trained_at": "20190709-111002",
+  "rasa": "1.1.4",
+  "tensorflow": "1.13.1",
+  "sklearn": "0.20.2"
+}

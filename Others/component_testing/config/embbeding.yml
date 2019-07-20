@@ -1,0 +1,13 @@
+%YAML 1.1
+---
+language: en
+pipeline: supervised_embeddings
+
+policies:
+- name: EmbeddingPolicy
+  epochs: 2000
+  featurizer:
+  - name: FullDialogueTrackerFeaturizer
+    state_featurizer:
+    - name: LabelTokenizerSingleStateFeaturizer
+

@@ -1,0 +1,82 @@
+[
+  {
+    "text": "i need to know which is the master's prospect",
+    "intent": "master_career_opportunities",
+    "intent_prediction": {
+      "name": "master_language",
+      "confidence": 0.806868731534077
+    }
+  },
+  {
+    "text": "i must know how long is the master",
+    "intent": "master_duration",
+    "intent_prediction": {
+      "name": "master_application_period",
+      "confidence": 0.3091683657551194
+    }
+  },
+  {
+    "text": "i want to know which documents do I need to send in addition to the formal application form?",
+    "intent": "master_how_to_apply",
+    "intent_prediction": {
+      "name": "master_location",
+      "confidence": 0.15566349269830843
+    }
+  },
+  {
+    "text": "Do I need to know deustch to attend this master",
+    "intent": "master_language",
+    "intent_prediction": {
+      "name": "master_contact",
+      "confidence": 0.1807259638812751
+    }
+  },
+  {
+    "text": "i want to know what idiom do teachers & professors speak?",
+    "intent": "master_language",
+    "intent_prediction": {
+      "name": "master_how_to_apply",
+      "confidence": 0.2083609358946579
+    }
+  },
+  {
+    "text": "would you bestow payment",
+    "intent": "master_scholarships",
+    "intent_prediction": {
+      "name": "canthelp",
+      "confidence": 0.36850786859227785
+    }
+  },
+  {
+    "text": "i must know when is it starting",
+    "intent": "master_start",
+    "intent_prediction": {
+      "name": "master_application_period",
+      "confidence": 0.2761965351831403
+    }
+  },
+  {
+    "text": "i need to know which with respect to the funds",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_admission_requirements",
+      "confidence": 0.5187555493695485
+    }
+  },
+  {
+    "text": "i want to know what relating to the installments",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_admission_requirements",
+      "confidence": 0.8062956129144052
+    }
+  },
+  {
+    "text": "tell me in the matter of the capital",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_location",
+      "confidence": 0.6104664783739319
+    }
+  }
+]

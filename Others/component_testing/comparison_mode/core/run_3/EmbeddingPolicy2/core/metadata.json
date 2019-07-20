@@ -1,0 +1,61 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": []
+    },
+    "utter_master_language": {
+      "slots": []
+    },
+    "utter_bye": {
+      "slots": []
+    },
+    "utter_master_contact": {
+      "slots": []
+    },
+    "utter_thank": {
+      "slots": []
+    },
+    "utter_greet": {
+      "slots": []
+    },
+    "utter_master_tuition_fees": {
+      "slots": []
+    },
+    "utter_master_scholarships": {
+      "slots": []
+    },
+    "utter_master_degree": {
+      "slots": []
+    },
+    "utter_master_electives": {
+      "slots": []
+    },
+    "utter_master_location": {
+      "slots": []
+    },
+    "utter_master_start": {
+      "slots": []
+    },
+    "utter_master_admission_requirements": {
+      "slots": []
+    },
+    "utter_master_duration": {
+      "slots": []
+    },
+    "utter_master_further_qualification_opportunities": {
+      "slots": []
+    }
+  },
+  "python": "3.6.8",
+  "max_histories": [
+    null
+  ],
+  "ensemble_name": "rasa.core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa.core.policies.embedding_policy.EmbeddingPolicy"
+  ],
+  "trained_at": "20190708-170723",
+  "rasa": "1.1.4",
+  "tensorflow": "1.13.1",
+  "sklearn": "0.20.2"
+}

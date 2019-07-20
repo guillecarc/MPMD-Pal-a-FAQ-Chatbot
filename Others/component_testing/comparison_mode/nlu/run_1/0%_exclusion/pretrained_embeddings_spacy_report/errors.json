@@ -1,0 +1,98 @@
+[
+  {
+    "text": "greetings",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "thank",
+      "confidence": 0.9663029744883269
+    }
+  },
+  {
+    "text": "heya let's talk",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "master_language",
+      "confidence": 0.41084106340778803
+    }
+  },
+  {
+    "text": "heyho let's talk",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "master_language",
+      "confidence": 0.18950864818808025
+    }
+  },
+  {
+    "text": "i must know which relating to the requirements",
+    "intent": "master_admission_requirements",
+    "intent_prediction": {
+      "name": "master_tuition_fees",
+      "confidence": 0.45398016013482334
+    }
+  },
+  {
+    "text": "could I apply next year",
+    "intent": "master_application_period",
+    "intent_prediction": {
+      "name": "master_start",
+      "confidence": 0.2169897535669872
+    }
+  },
+  {
+    "text": "can I apply next month",
+    "intent": "master_application_period",
+    "intent_prediction": {
+      "name": "master_start",
+      "confidence": 0.352100010077445
+    }
+  },
+  {
+    "text": "i need to know how can I connect with the programm manager",
+    "intent": "master_contact",
+    "intent_prediction": {
+      "name": "master_how_to_apply",
+      "confidence": 0.31049989927441773
+    }
+  },
+  {
+    "text": "how can i start the master",
+    "intent": "master_how_to_apply",
+    "intent_prediction": {
+      "name": "master_career_opportunities",
+      "confidence": 0.20604185753744678
+    }
+  },
+  {
+    "text": "in which language will i study?",
+    "intent": "master_language",
+    "intent_prediction": {
+      "name": "master_location",
+      "confidence": 0.24158831063261607
+    }
+  },
+  {
+    "text": "tell me in the matter of the capital",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_location",
+      "confidence": 0.5862601093152635
+    }
+  },
+  {
+    "text": "i want to know what relating to the installments",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_admission_requirements",
+      "confidence": 0.7418177998633135
+    }
+  },
+  {
+    "text": "grazie",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9539488224609102
+    }
+  }
+]

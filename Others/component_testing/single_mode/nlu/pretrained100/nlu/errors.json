@@ -1,0 +1,322 @@
+[
+  {
+    "text": "i must know when is it starting",
+    "intent": "master_start",
+    "intent_prediction": {
+      "name": "master_application_period",
+      "confidence": 0.22608560978864473
+    }
+  },
+  {
+    "text": "greetings",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "thank",
+      "confidence": 0.9546353795547935
+    }
+  },
+  {
+    "text": "danke",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9416186712530648
+    }
+  },
+  {
+    "text": "thanks for the help",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "master_tuition_fees",
+      "confidence": 0.43866373062777625
+    }
+  },
+  {
+    "text": "i would like to know how can i start the program",
+    "intent": "master_how_to_apply",
+    "intent_prediction": {
+      "name": "master_contact",
+      "confidence": 0.28019154393177637
+    }
+  },
+  {
+    "text": "I want to commence the programm",
+    "intent": "master_how_to_apply",
+    "intent_prediction": {
+      "name": "master_tuition_fees",
+      "confidence": 0.20562907566777988
+    }
+  },
+  {
+    "text": "in which language will i study?",
+    "intent": "master_language",
+    "intent_prediction": {
+      "name": "master_location",
+      "confidence": 0.296806306979276
+    }
+  },
+  {
+    "text": "i need to know which is the master's prospect",
+    "intent": "master_career_opportunities",
+    "intent_prediction": {
+      "name": "master_language",
+      "confidence": 0.8746056395128509
+    }
+  },
+  {
+    "text": "i dont infer you can do what i need",
+    "intent": "canthelp",
+    "intent_prediction": {
+      "name": "master_how_to_apply",
+      "confidence": 0.2814152333345209
+    }
+  },
+  {
+    "text": "do you get anything?",
+    "intent": "canthelp",
+    "intent_prediction": {
+      "name": "master_contact",
+      "confidence": 0.2660102772747865
+    }
+  },
+  {
+    "text": "grazie",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9458015500472223
+    }
+  },
+  {
+    "text": "cheers bro",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.49914984958312986
+    }
+  },
+  {
+    "text": "i want to know which documents do I need to send in addition to the formal application form?",
+    "intent": "master_how_to_apply",
+    "intent_prediction": {
+      "name": "master_location",
+      "confidence": 0.15047102772286353
+    }
+  },
+  {
+    "text": "tell me with regards to the installments",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_electives",
+      "confidence": 0.4662247402071091
+    }
+  },
+  {
+    "text": "i must know which with the relevance to the cash",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_location",
+      "confidence": 0.3547762949989744
+    }
+  },
+  {
+    "text": "i must know which relating to the requirements",
+    "intent": "master_admission_requirements",
+    "intent_prediction": {
+      "name": "master_tuition_fees",
+      "confidence": 0.814818527432965
+    }
+  },
+  {
+    "text": "thanks a bunch for everything",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "master_electives",
+      "confidence": 0.21950752468573875
+    }
+  },
+  {
+    "text": "i want to know which is the program's title type?",
+    "intent": "master_degree",
+    "intent_prediction": {
+      "name": "master_language",
+      "confidence": 0.6720536608158382
+    }
+  },
+  {
+    "text": "cheers",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.8927479149669524
+    }
+  },
+  {
+    "text": "i want to know what relating to the installments",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_admission_requirements",
+      "confidence": 0.8419834716318205
+    }
+  },
+  {
+    "text": "i would like to know how could I contact the master'sfaculty",
+    "intent": "master_contact",
+    "intent_prediction": {
+      "name": "master_how_to_apply",
+      "confidence": 0.6061401543455734
+    }
+  },
+  {
+    "text": "i would like to know what with regards to the payment",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_location",
+      "confidence": 0.31894430025020676
+    }
+  },
+  {
+    "text": "do i need to know deustch",
+    "intent": "master_language",
+    "intent_prediction": {
+      "name": "master_how_to_apply",
+      "confidence": 0.2782215523833233
+    }
+  },
+  {
+    "text": "Is this an online master? Or I need to to be in Berlin to finish",
+    "intent": "master_location",
+    "intent_prediction": {
+      "name": "master_tuition_fees",
+      "confidence": 0.2684712342141525
+    }
+  },
+  {
+    "text": "can I apply next month",
+    "intent": "master_application_period",
+    "intent_prediction": {
+      "name": "master_start",
+      "confidence": 0.32638806847478363
+    }
+  },
+  {
+    "text": "could i pay fees per period",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_career_opportunities",
+      "confidence": 0.159326617727775
+    }
+  },
+  {
+    "text": "i need to know what with respect to the conditions",
+    "intent": "master_admission_requirements",
+    "intent_prediction": {
+      "name": "master_tuition_fees",
+      "confidence": 0.47811825408285785
+    }
+  },
+  {
+    "text": "Does the program have any tariff",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_semester_content",
+      "confidence": 0.2734038956403577
+    }
+  },
+  {
+    "text": "i need to know which with regards to the musts",
+    "intent": "master_admission_requirements",
+    "intent_prediction": {
+      "name": "master_tuition_fees",
+      "confidence": 0.5121332848019673
+    }
+  },
+  {
+    "text": "i must know which is the diploma",
+    "intent": "master_degree",
+    "intent_prediction": {
+      "name": "master_language",
+      "confidence": 0.2529812778835821
+    }
+  },
+  {
+    "text": "thank you so much",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "canthelp",
+      "confidence": 0.8469869606164199
+    }
+  },
+  {
+    "text": "tell me in the matter of the capital",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_location",
+      "confidence": 0.4011870651934021
+    }
+  },
+  {
+    "text": "in which place is the master",
+    "intent": "master_location",
+    "intent_prediction": {
+      "name": "master_language",
+      "confidence": 0.7834672558103145
+    }
+  },
+  {
+    "text": "i would like to know which are the career opportunities out there after this programm",
+    "intent": "master_career_opportunities",
+    "intent_prediction": {
+      "name": "master_tuition_fees",
+      "confidence": 0.2561783582033754
+    }
+  },
+  {
+    "text": "i want to know which referring to the capital",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_location",
+      "confidence": 0.4014294462362814
+    }
+  },
+  {
+    "text": "i need to know which with respect to the funds",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_admission_requirements",
+      "confidence": 0.7126428789346873
+    }
+  },
+  {
+    "text": "i need to know which is the programm's dialect",
+    "intent": "master_language",
+    "intent_prediction": {
+      "name": "master_career_opportunities",
+      "confidence": 0.3511065183426834
+    }
+  },
+  {
+    "text": "Do I need to know deustch to attend this master",
+    "intent": "master_language",
+    "intent_prediction": {
+      "name": "master_how_to_apply",
+      "confidence": 0.18514454478153372
+    }
+  },
+  {
+    "text": "i need to know how can I connect with the programm manager",
+    "intent": "master_contact",
+    "intent_prediction": {
+      "name": "master_how_to_apply",
+      "confidence": 0.33834388489221573
+    }
+  },
+  {
+    "text": "Tell me with respect to the electives",
+    "intent": "master_electives",
+    "intent_prediction": {
+      "name": "master_tuition_fees",
+      "confidence": 0.5049018651261644
+    }
+  }
+]

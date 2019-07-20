@@ -1,0 +1,49 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": []
+    },
+    "utter_master_contact": {
+      "slots": []
+    },
+    "utter_master_application_period": {
+      "slots": []
+    },
+    "utter_bye": {
+      "slots": []
+    },
+    "utter_master_degree": {
+      "slots": []
+    },
+    "utter_thank": {
+      "slots": []
+    },
+    "utter_master_further_qualification_opportunities": {
+      "slots": []
+    },
+    "utter_master_location": {
+      "slots": []
+    },
+    "utter_master_tuition_fees": {
+      "slots": []
+    },
+    "utter_master_program_content": {
+      "slots": []
+    },
+    "utter_master_electives": {
+      "slots": []
+    }
+  },
+  "python": "3.6.8",
+  "max_histories": [
+    null
+  ],
+  "ensemble_name": "rasa.core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa.core.policies.embedding_policy.EmbeddingPolicy"
+  ],
+  "trained_at": "20190706-011822",
+  "rasa": "1.1.4",
+  "tensorflow": "1.13.1",
+  "sklearn": "0.20.2"
+}

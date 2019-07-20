@@ -1,0 +1,162 @@
+[
+  {
+    "text": "grazie",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Does the program have any tariff",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_semester_content",
+      "confidence": 0.9816566705703735
+    }
+  },
+  {
+    "text": "gracias",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "are the fees required upfront?",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "canthelp",
+      "confidence": 0.45215263962745667
+    }
+  },
+  {
+    "text": "i must know when is it starting",
+    "intent": "master_start",
+    "intent_prediction": {
+      "name": "master_location",
+      "confidence": 0.6380866765975952
+    }
+  },
+  {
+    "text": "could i pay fees per period",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_scholarships",
+      "confidence": 0.7169030904769897
+    }
+  },
+  {
+    "text": "i need to know which regarding to the money",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_admission_requirements",
+      "confidence": 0.5693298578262329
+    }
+  },
+  {
+    "text": "i need to know how much do i have to grant",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_scholarships",
+      "confidence": 0.6375628709793091
+    }
+  },
+  {
+    "text": "i would like to know how could I contact the master'sfaculty",
+    "intent": "master_contact",
+    "intent_prediction": {
+      "name": "master_how_to_apply",
+      "confidence": 0.9330005645751953
+    }
+  },
+  {
+    "text": "i need to know how can I connect with the programm manager",
+    "intent": "master_contact",
+    "intent_prediction": {
+      "name": "master_how_to_apply",
+      "confidence": 0.5549795627593994
+    }
+  },
+  {
+    "text": "I want to commence the programm",
+    "intent": "master_how_to_apply",
+    "intent_prediction": {
+      "name": "master_start",
+      "confidence": 0.45755964517593384
+    }
+  },
+  {
+    "text": "Is there any award I could make a formal application to study the MPMD",
+    "intent": "master_scholarships",
+    "intent_prediction": {
+      "name": "master_program_content",
+      "confidence": 0.456112265586853
+    }
+  },
+  {
+    "text": "thank bot",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.6347726583480835
+    }
+  },
+  {
+    "text": "Is this an online master? Or I need to to be in Berlin to finish",
+    "intent": "master_location",
+    "intent_prediction": {
+      "name": "master_program_content",
+      "confidence": 0.7072687149047852
+    }
+  },
+  {
+    "text": "i need to know which is the master's prospect",
+    "intent": "master_career_opportunities",
+    "intent_prediction": {
+      "name": "master_program_content",
+      "confidence": 0.867179274559021
+    }
+  },
+  {
+    "text": "greetings",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "do you get anything?",
+    "intent": "canthelp",
+    "intent_prediction": {
+      "name": "master_admission_requirements",
+      "confidence": 0.5642309188842773
+    }
+  },
+  {
+    "text": "danke",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "i want to know which referring to the capital",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_admission_requirements",
+      "confidence": 0.4617583155632019
+    }
+  },
+  {
+    "text": "tell me in the matter of the capital",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_admission_requirements",
+      "confidence": 0.8400323390960693
+    }
+  }
+]

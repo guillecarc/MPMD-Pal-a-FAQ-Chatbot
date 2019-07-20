@@ -1,0 +1,89 @@
+"","intent","measure","value"
+"1","canthelp","precision",0.98989898989899
+"2","greet","precision",0.961165048543689
+"3","master_admission_requirements","precision",0.97979797979798
+"4","master_application_period","precision",0.99
+"5","master_career_opportunities","precision",0.98
+"6","master_contact","precision",0.98
+"7","master_degree","precision",1
+"8","master_duration","precision",1
+"9","master_electives","precision",0.98019801980198
+"10","master_further_qualification_opportunities","precision",1
+"11","master_how_to_apply","precision",0.791666666666667
+"12","master_language","precision",0.96
+"13","master_location","precision",0.942307692307692
+"14","master_program_content","precision",1
+"15","master_scholarships","precision",1
+"16","master_semester_content","precision",0.99009900990099
+"17","master_start","precision",0.99
+"18","master_tuition_fees","precision",0.919191919191919
+"19","thank","precision",0.954545454545455
+"20","micro avg","precision",0.977142857142857
+"21","macro avg","precision",0.968887935823966
+"22","weighted avg","precision",0.977377031621865
+"23","canthelp","recall",0.98
+"24","greet","recall",0.99
+"25","master_admission_requirements","recall",0.97
+"26","master_application_period","recall",0.99
+"27","master_career_opportunities","recall",0.98
+"28","master_contact","recall",0.98
+"29","master_degree","recall",0.98
+"30","master_duration","recall",1
+"31","master_electives","recall",0.99
+"32","master_further_qualification_opportunities","recall",1
+"33","master_how_to_apply","recall",0.863636363636364
+"34","master_language","recall",0.96
+"35","master_location","recall",0.98
+"36","master_program_content","recall",1
+"37","master_scholarships","recall",1
+"38","master_semester_content","recall",1
+"39","master_start","recall",0.99
+"40","master_tuition_fees","recall",0.91
+"41","thank","recall",0.75
+"42","micro avg","recall",0.977142857142857
+"43","macro avg","recall",0.963875598086124
+"44","weighted avg","recall",0.977142857142857
+"45","canthelp","f1.score",0.984924623115578
+"46","greet","f1.score",0.975369458128079
+"47","master_admission_requirements","f1.score",0.974874371859296
+"48","master_application_period","f1.score",0.99
+"49","master_career_opportunities","f1.score",0.98
+"50","master_contact","f1.score",0.98
+"51","master_degree","f1.score",0.98989898989899
+"52","master_duration","f1.score",1
+"53","master_electives","f1.score",0.985074626865672
+"54","master_further_qualification_opportunities","f1.score",1
+"55","master_how_to_apply","f1.score",0.826086956521739
+"56","master_language","f1.score",0.96
+"57","master_location","f1.score",0.96078431372549
+"58","master_program_content","f1.score",1
+"59","master_scholarships","f1.score",1
+"60","master_semester_content","f1.score",0.995024875621891
+"61","master_start","f1.score",0.99
+"62","master_tuition_fees","f1.score",0.914572864321608
+"63","thank","f1.score",0.84
+"64","micro avg","f1.score",0.977142857142857
+"65","macro avg","f1.score",0.965611109476755
+"66","weighted avg","f1.score",0.976997900226936
+"67","canthelp","support",100
+"68","greet","support",100
+"69","master_admission_requirements","support",100
+"70","master_application_period","support",100
+"71","master_career_opportunities","support",100
+"72","master_contact","support",100
+"73","master_degree","support",100
+"74","master_duration","support",100
+"75","master_electives","support",100
+"76","master_further_qualification_opportunities","support",100
+"77","master_how_to_apply","support",22
+"78","master_language","support",100
+"79","master_location","support",100
+"80","master_program_content","support",100
+"81","master_scholarships","support",100
+"82","master_semester_content","support",100
+"83","master_start","support",100
+"84","master_tuition_fees","support",100
+"85","thank","support",28
+"86","micro avg","support",1750
+"87","macro avg","support",1750
+"88","weighted avg","support",1750

@@ -1,0 +1,164 @@
+%YAML 1.1
+---
+actions:
+- utter_bye
+- utter_canthelp
+- utter_greet
+- utter_master_admission_requirements
+- utter_master_application_period
+- utter_master_career_opportunities
+- utter_master_contact
+- utter_master_degree
+- utter_master_duration
+- utter_master_electives
+- utter_master_further_qualification_opportunities
+- utter_master_how_to_apply
+- utter_master_language
+- utter_master_location
+- utter_master_program_content
+- utter_master_scholarships
+- utter_master_semester_one_subjects
+- utter_master_semester_three_subjects
+- utter_master_semester_two_subjects
+- utter_master_start
+- utter_master_total_credits
+- utter_master_tuition_fees
+- utter_out_of_scope
+- utter_thank
+config:
+  store_entities_as_slots: true
+entities: []
+forms: []
+intents:
+- bye:
+    ignore_entities: []
+    use_entities: true
+- good_deny:
+    ignore_entities: []
+    use_entities: true
+- greet:
+    ignore_entities: []
+    use_entities: true
+- master_admission_requirements:
+    ignore_entities: []
+    use_entities: true
+- master_application_period:
+    ignore_entities: []
+    use_entities: true
+- master_career_opportunities:
+    ignore_entities: []
+    use_entities: true
+- master_contact:
+    ignore_entities: []
+    use_entities: true
+- master_degree:
+    ignore_entities: []
+    use_entities: true
+- master_duration:
+    ignore_entities: []
+    use_entities: true
+- master_electives:
+    ignore_entities: []
+    use_entities: true
+- master_further_qualification_opportunities:
+    ignore_entities: []
+    use_entities: true
+- master_how_to_apply:
+    ignore_entities: []
+    use_entities: true
+- master_language:
+    ignore_entities: []
+    use_entities: true
+- master_location:
+    ignore_entities: []
+    use_entities: true
+- master_program_content:
+    ignore_entities: []
+    use_entities: true
+- master_scholarships:
+    ignore_entities: []
+    use_entities: true
+- master_semester_content:
+    ignore_entities: []
+    use_entities: true
+- master_start:
+    ignore_entities: []
+    use_entities: true
+- master_tuition_fees:
+    ignore_entities: []
+    use_entities: true
+- thank:
+    ignore_entities: []
+    use_entities: true
+slots: {}
+templates:
+  utter_bye:
+  - text: Goodbye!
+  - text: Bye!
+  - text: Ciao!
+  utter_canthelp:
+  - text: Im sorry I couldnt help you. However, you can mail admission-mpmd@htw-berlin.de.
+      They will be happy to help :)
+  utter_greet:
+  - text: Hey there, welcome to MPMD Program page. How can I help you? :)
+  utter_master_admission_requirements:
+  - text: In general, it is required a bachelor diploma and proof of English proficiency
+      ;)
+  utter_master_application_period:
+  - text: It starts on November 1st and ends on February 28 each year. Late applications
+      will be considered, if study places are available.
+  utter_master_career_opportunities:
+  - text: Project Management and Data Science are fields where companies are leveraging
+      the most to drive revenue! Looking specifically into Berlin, place where the
+      master takes place, it is the biggest stat-up hub of Europe! 🔥
+  utter_master_contact:
+  - text: If you have more questions, you can always mail admission-mpmd@htw-berlin.de!
+  utter_master_degree:
+  - text: Master of Science (M.Sc)
+  utter_master_duration:
+  - text: It lasts 4 semesters :)
+  utter_master_electives:
+  - text: 'The available electives are: Negotiation Techniques and Cross-Cultural
+      Communication, Group Facilitation, and Technology Management in Practice'
+  utter_master_further_qualification_opportunities:
+  - text: Master graduates are eligible to continue their academic in doctoral studies
+      (PhD)
+  utter_master_how_to_apply:
+  - text: You have to fill out the application form (PDF) and send it back to us at
+      admission-mpmd@htw-berlin.de
+  utter_master_language:
+  - text: The master is completely in English :D
+  utter_master_location:
+  - text: The master is in Berlin! The exact address is Treskowallee 8, 10318 Berlin
+  utter_master_program_content:
+  - text: The Master will help you to successfully manage and supervise projects in
+      the international environment as well as facilitate, process and interpret extensive
+      datasets and carry out analysis across different disciplines. You will also
+      acquire communication and language skills! 🚀
+  utter_master_scholarships:
+  - text: Currently there are no available scholarships for the program. However it
+      is always worthy to have a look into https://www.daad.de/de/ ;)
+  utter_master_semester_one_subjects:
+  - text: 'The first semester includes: International Project Management I, Foundation
+      of Data Analytics and Statistical Programming, Contract & International Business
+      Law, and an Elective Module.'
+  utter_master_semester_three_subjects:
+  - text: 'The third semester includes: Project Management and Data Analytics Lab,
+      Advanced Data Mining Techniques, Databases and Big Data, Practical Data Governance,
+      Data Security and Regulatory Compliance, and an Elective Module.'
+  utter_master_semester_two_subjects:
+  - text: 'The second semester includes: Advanced Computational Data Analytics, International
+      Project Management II, Change Management and Leadership, and Financial Reporting
+      and Management Information Systems.'
+  utter_master_start:
+  - text: It starts in winter semester (October)
+  utter_master_total_credits:
+  - text: You need to have 120 ETCS
+  utter_master_tuition_fees:
+  - text: The master implies 16,000 EUR for the degree, plus semester fees of ~310
+  utter_out_of_scope:
+  - text: Sorry, I can’t deal with that request.
+  - text: I'm sorry, I can't handle that request.
+  - text: I can't help you with that, I'm sorry.
+  utter_thank:
+  - text: You are more than welcome :D, is there something else I can do for you?

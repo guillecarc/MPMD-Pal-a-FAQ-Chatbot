@@ -1,0 +1,14 @@
+%YAML 1.1
+---
+language: en
+pipeline: supervised_embeddings
+
+policies:
+- core_threshold: 0.5
+  fallback_action_name: "action_default_fallback"
+  name: FallbackPolicy
+  nlu_threshold: 0.3
+- name: MappingPolicy
+- epochs: 2000
+  name: KerasPolicy
+

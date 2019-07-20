@@ -1,0 +1,21 @@
+text;intent;intent predicted;confidence
+grazie;thank;;0
+Does the program have any tariff;master_tuition_fees;master_semester_content;0.981656670570374
+gracias;thank;;0
+are the fees required upfront?;master_tuition_fees;canthelp;0.452152639627457
+i must know when is it starting;master_start;master_location;0.638086676597595
+could i pay fees per period;master_tuition_fees;master_scholarships;0.71690309047699
+i need to know which regarding to the money;master_tuition_fees;master_admission_requirements;0.569329857826233
+i need to know how much do i have to grant;master_tuition_fees;master_scholarships;0.637562870979309
+i would like to know how could I contact the master'sfaculty;master_contact;master_how_to_apply;0.933000564575195
+i need to know how can I connect with the programm manager;master_contact;master_how_to_apply;0.554979562759399
+I want to commence the programm;master_how_to_apply;master_start;0.457559645175934
+Is there any award I could make a formal application to study the MPMD;master_scholarships;master_program_content;0.456112265586853
+thank bot;thank;greet;0.634772658348083
+Is this an online master? Or I need to to be in Berlin to finish;master_location;master_program_content;0.707268714904785
+i need to know which is the master's prospect;master_career_opportunities;master_program_content;0.867179274559021
+greetings;greet;;0
+do you get anything?;canthelp;master_admission_requirements;0.564230918884277
+danke;thank;;0
+i want to know which referring to the capital;master_tuition_fees;master_admission_requirements;0.461758315563202
+tell me in the matter of the capital;master_tuition_fees;master_admission_requirements;0.840032339096069

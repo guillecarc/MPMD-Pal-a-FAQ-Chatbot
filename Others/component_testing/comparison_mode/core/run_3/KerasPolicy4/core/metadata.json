@@ -1,0 +1,40 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": []
+    },
+    "utter_bye": {
+      "slots": []
+    },
+    "utter_master_further_qualification_opportunities": {
+      "slots": []
+    },
+    "utter_master_application_period": {
+      "slots": []
+    },
+    "utter_master_contact": {
+      "slots": []
+    },
+    "utter_master_electives": {
+      "slots": []
+    },
+    "utter_master_how_to_apply": {
+      "slots": []
+    },
+    "utter_master_admission_requirements": {
+      "slots": []
+    }
+  },
+  "python": "3.6.8",
+  "max_histories": [
+    5
+  ],
+  "ensemble_name": "rasa.core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa.core.policies.keras_policy.KerasPolicy"
+  ],
+  "trained_at": "20190709-111243",
+  "rasa": "1.1.4",
+  "tensorflow": "1.13.1",
+  "sklearn": "0.20.2"
+}

@@ -1,0 +1,18 @@
+%YAML 1.1
+---
+language: en
+pipeline: supervised_embeddings
+
+policies:
+- attn_shift_range: 3
+  epochs: 2000
+  featurizer:
+  - name: FullDialogueTrackerFeaturizer
+    state_featurizer:
+    - name: LabelTokenizerSingleStateFeaturizer
+  name: EmbeddingPolicy
+- core_threshold: 0.3
+  fallback_action_name: utter_out_of_scope
+  name: FallbackPolicy
+  nlu_threshold: 0.3
+

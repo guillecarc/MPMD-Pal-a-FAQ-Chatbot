@@ -1,0 +1,114 @@
+[
+  {
+    "text": "greetings",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "thank",
+      "confidence": 0.9555385014443415
+    }
+  },
+  {
+    "text": "heya let's talk",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "master_scholarships",
+      "confidence": 0.4193486420093854
+    }
+  },
+  {
+    "text": "heyho let's talk",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "master_language",
+      "confidence": 0.4307700188686143
+    }
+  },
+  {
+    "text": "i need to know what with respect to the conditions",
+    "intent": "master_admission_requirements",
+    "intent_prediction": {
+      "name": "master_tuition_fees",
+      "confidence": 0.6087397183656701
+    }
+  },
+  {
+    "text": "could I apply next year",
+    "intent": "master_application_period",
+    "intent_prediction": {
+      "name": "master_scholarships",
+      "confidence": 0.16749909745931157
+    }
+  },
+  {
+    "text": "can I apply next month",
+    "intent": "master_application_period",
+    "intent_prediction": {
+      "name": "master_start",
+      "confidence": 0.2820383894684174
+    }
+  },
+  {
+    "text": "i need to know how many semesters",
+    "intent": "master_duration",
+    "intent_prediction": {
+      "name": "master_tuition_fees",
+      "confidence": 0.3203235459167964
+    }
+  },
+  {
+    "text": "how can i start the master",
+    "intent": "master_how_to_apply",
+    "intent_prediction": {
+      "name": "master_career_opportunities",
+      "confidence": 0.21219401377030978
+    }
+  },
+  {
+    "text": "in which language will i study?",
+    "intent": "master_language",
+    "intent_prediction": {
+      "name": "master_degree",
+      "confidence": 0.27559730535530286
+    }
+  },
+  {
+    "text": "i must know how do I know if I qualify for a award",
+    "intent": "master_scholarships",
+    "intent_prediction": {
+      "name": "master_career_opportunities",
+      "confidence": 0.3799876621184642
+    }
+  },
+  {
+    "text": "i must know when does the programm start",
+    "intent": "master_start",
+    "intent_prediction": {
+      "name": "master_semester_content",
+      "confidence": 0.30662604075587124
+    }
+  },
+  {
+    "text": "tell me in the matter of the capital",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_location",
+      "confidence": 0.4199945782990461
+    }
+  },
+  {
+    "text": "i want to know what relating to the installments",
+    "intent": "master_tuition_fees",
+    "intent_prediction": {
+      "name": "master_admission_requirements",
+      "confidence": 0.7823097700197685
+    }
+  },
+  {
+    "text": "grazie",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.7770307189389117
+    }
+  }
+]

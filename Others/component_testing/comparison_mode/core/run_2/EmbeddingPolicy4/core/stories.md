@@ -1,0 +1,4260 @@
+## story_29: greet + program_content + semester_content + electives + start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_4: application_period
+* master_application_period
+    - utter_master_application_period
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_22: degree + application_period + duration + location + bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_11: how_to_apply
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_12: language
+* master_language
+    - utter_master_language
+
+## story_19: thank
+* thank
+    - utter_thank
+
+## story_4: application_period
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* master_application_period
+    - utter_master_application_period
+
+## story_11: how_to_apply
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_12: language
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+* master_application_period
+    - utter_master_application_period
+* master_language
+    - utter_master_language
+
+## story_12: language
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* master_language
+    - utter_master_language
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* master_application_period
+    - utter_master_application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* thank
+    - utter_thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_29: greet + program_content + semester_content + electives + start
+* master_application_period
+    - utter_master_application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_4: application_period
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_application_period
+    - utter_master_application_period
+
+## story_12: language
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_language
+    - utter_master_language
+
+## story_22: degree + application_period + duration + location + bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_4: application_period
+* master_language
+    - utter_master_language
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_application_period
+    - utter_master_application_period
+
+## story_4: application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_language
+    - utter_master_language
+* master_application_period
+    - utter_master_application_period
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_application_period
+    - utter_master_application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_12: language
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_language
+    - utter_master_language
+* master_language
+    - utter_master_language
+
+## story_12: language
+* master_application_period
+    - utter_master_application_period
+* master_language
+    - utter_master_language
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* master_language
+    - utter_master_language
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_19: thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+* thank
+    - utter_thank
+
+## story_12: language
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_language
+    - utter_master_language
+
+## story_22: degree + application_period + duration + location + bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_19: thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_how_to_apply
+    - utter_master_how_to_apply
+* thank
+    - utter_thank
+
+## story_11: how_to_apply
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_19: thank
+* master_application_period
+    - utter_master_application_period
+* thank
+    - utter_thank
+
+## story_4: application_period
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_application_period
+    - utter_master_application_period
+
+## story_12: language
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_language
+    - utter_master_language
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_how_to_apply
+    - utter_master_how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_11: how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+* master_application_period
+    - utter_master_application_period
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_11: how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_language
+    - utter_master_language
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_19: thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+
+## story_11: how_to_apply
+* thank
+    - utter_thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_19: thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+
+## story_4: application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_application_period
+    - utter_master_application_period
+
+## story_19: thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+
+## story_12: language
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_language
+    - utter_master_language
+
+## story_22: degree + application_period + duration + location + bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_19: thank
+* thank
+    - utter_thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* thank
+    - utter_thank
+
+## story_12: language
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_language
+    - utter_master_language
+
+## story_4: application_period
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* master_application_period
+    - utter_master_application_period
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_19: thank
+* thank
+    - utter_thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+
+## story_22: degree + application_period + duration + location + bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_11: how_to_apply
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_22: degree + application_period + duration + location + bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_application_period
+    - utter_master_application_period
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_19: thank
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+
+## story_12: language
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* master_language
+    - utter_master_language
+
+## story_12: language
+* master_application_period
+    - utter_master_application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_language
+    - utter_master_language
+
+## story_12: language
+* thank
+    - utter_thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_language
+    - utter_master_language
+
+## story_22: degree + application_period + duration + location + bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_22: degree + application_period + duration + location + bye
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* thank
+    - utter_thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_11: how_to_apply
+* master_application_period
+    - utter_master_application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_19: thank
+* master_application_period
+    - utter_master_application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* thank
+    - utter_thank
+
+## story_29: greet + program_content + semester_content + electives + start
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_29: greet + program_content + semester_content + electives + start
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_4: application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+
+## story_22: degree + application_period + duration + location + bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_29: greet + program_content + semester_content + electives + start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_12: language
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+* master_language
+    - utter_master_language
+
+## story_4: application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_application_period
+    - utter_master_application_period
+
+## story_11: how_to_apply
+* master_application_period
+    - utter_master_application_period
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_11: how_to_apply
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_language
+    - utter_master_language
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_11: how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* thank
+    - utter_thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_4: application_period
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+
+## story_19: thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+* master_application_period
+    - utter_master_application_period
+* thank
+    - utter_thank
+
+## story_4: application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+
+## story_29: greet + program_content + semester_content + electives + start
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_4: application_period
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_application_period
+    - utter_master_application_period
+
+## story_11: how_to_apply
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_application_period
+    - utter_master_application_period
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_4: application_period
+* thank
+    - utter_thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+
+## story_22: degree + application_period + duration + location + bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_22: degree + application_period + duration + location + bye
+* master_application_period
+    - utter_master_application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_29: greet + program_content + semester_content + electives + start
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_11: how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_22: degree + application_period + duration + location + bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+* master_application_period
+    - utter_master_application_period
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_22: degree + application_period + duration + location + bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_4: application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* thank
+    - utter_thank
+* master_application_period
+    - utter_master_application_period
+
+## story_29: greet + program_content + semester_content + electives + start
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_29: greet + program_content + semester_content + electives + start
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_11: how_to_apply
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_4: application_period
+* master_application_period
+    - utter_master_application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_application_period
+    - utter_master_application_period
+
+## story_12: language
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_language
+    - utter_master_language
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_how_to_apply
+    - utter_master_how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_19: thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_how_to_apply
+    - utter_master_how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* thank
+    - utter_thank
+
+## story_12: language
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_language
+    - utter_master_language
+
+## story_12: language
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_language
+    - utter_master_language
+* master_language
+    - utter_master_language
+
+## story_12: language
+* master_language
+    - utter_master_language
+* master_language
+    - utter_master_language
+
+## story_12: language
+* master_application_period
+    - utter_master_application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_language
+    - utter_master_language
+
+## story_19: thank
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+
+## story_29: greet + program_content + semester_content + electives + start
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_language
+    - utter_master_language
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_11: how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* thank
+    - utter_thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_19: thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+* thank
+    - utter_thank
+
+## story_29: greet + program_content + semester_content + electives + start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_19: thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+* thank
+    - utter_thank
+
+## story_19: thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_22: degree + application_period + duration + location + bye
+* master_application_period
+    - utter_master_application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_29: greet + program_content + semester_content + electives + start
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_application_period
+    - utter_master_application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_29: greet + program_content + semester_content + electives + start
+* thank
+    - utter_thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_11: how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_how_to_apply
+    - utter_master_how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_19: thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* thank
+    - utter_thank
+
+## story_12: language
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+* master_language
+    - utter_master_language
+
+## story_19: thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+* thank
+    - utter_thank
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* thank
+    - utter_thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_4: application_period
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_12: language
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* thank
+    - utter_thank
+* master_language
+    - utter_master_language
+
+## story_19: thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* thank
+    - utter_thank
+
+## story_4: application_period
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_application_period
+    - utter_master_application_period
+* master_application_period
+    - utter_master_application_period
+
+## story_4: application_period
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+
+## story_4: application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_application_period
+    - utter_master_application_period
+
+## story_19: thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* thank
+    - utter_thank
+
+## story_22: degree + application_period + duration + location + bye
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_29: greet + program_content + semester_content + electives + start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_how_to_apply
+    - utter_master_how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_19: thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+* thank
+    - utter_thank
+
+## story_22: degree + application_period + duration + location + bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_11: how_to_apply
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_language
+    - utter_master_language
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_4: application_period
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_application_period
+    - utter_master_application_period
+
+## story_19: thank
+* master_application_period
+    - utter_master_application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* thank
+    - utter_thank
+
+## story_11: how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_19: thank
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+
+## story_12: language
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* thank
+    - utter_thank
+* master_language
+    - utter_master_language
+
+## story_4: application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_application_period
+    - utter_master_application_period
+
+## story_19: thank
+* master_language
+    - utter_master_language
+* master_how_to_apply
+    - utter_master_how_to_apply
+* thank
+    - utter_thank
+
+## story_4: application_period
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+* master_application_period
+    - utter_master_application_period
+
+## story_11: how_to_apply
+* master_language
+    - utter_master_language
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_11: how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* master_language
+    - utter_master_language
+* master_how_to_apply
+    - utter_master_how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_29: greet + program_content + semester_content + electives + start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_22: degree + application_period + duration + location + bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_29: greet + program_content + semester_content + electives + start
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_11: how_to_apply
+* thank
+    - utter_thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_4: application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+* master_application_period
+    - utter_master_application_period
+
+## story_22: degree + application_period + duration + location + bye
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_language
+    - utter_master_language
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_12: language
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* thank
+    - utter_thank
+* master_language
+    - utter_master_language
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_22: degree + application_period + duration + location + bye
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_11: how_to_apply
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_language
+    - utter_master_language
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_11: how_to_apply
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_19: thank
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+
+## story_12: language
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_language
+    - utter_master_language
+
+## story_11: how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* thank
+    - utter_thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_22: degree + application_period + duration + location + bye
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_language
+    - utter_master_language
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_29: greet + program_content + semester_content + electives + start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+* master_application_period
+    - utter_master_application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_4: application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+
+## story_19: thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_22: degree + application_period + duration + location + bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_19: thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* thank
+    - utter_thank
+
+## story_4: application_period
+* master_language
+    - utter_master_language
+* master_application_period
+    - utter_master_application_period
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* master_application_period
+    - utter_master_application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_4: application_period
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+
+## story_29: greet + program_content + semester_content + electives + start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_29: greet + program_content + semester_content + electives + start
+* master_language
+    - utter_master_language
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_19: thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* thank
+    - utter_thank
+* thank
+    - utter_thank
+
+## story_4: application_period
+* thank
+    - utter_thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_application_period
+    - utter_master_application_period
+
+## story_12: language
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_language
+    - utter_master_language
+
+## story_11: how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_29: greet + program_content + semester_content + electives + start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* thank
+    - utter_thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_22: degree + application_period + duration + location + bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_12: language
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_language
+    - utter_master_language
+
+## story_4: application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_how_to_apply
+    - utter_master_how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+
+## story_22: degree + application_period + duration + location + bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_22: degree + application_period + duration + location + bye
+* thank
+    - utter_thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_22: degree + application_period + duration + location + bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_22: degree + application_period + duration + location + bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_22: degree + application_period + duration + location + bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_19: thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* thank
+    - utter_thank
+
+## story_29: greet + program_content + semester_content + electives + start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_language
+    - utter_master_language
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_4: application_period
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+
+## story_29: greet + program_content + semester_content + electives + start
+* master_application_period
+    - utter_master_application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_12: language
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_language
+    - utter_master_language
+
+## story_11: how_to_apply
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_12: language
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_language
+    - utter_master_language
+
+## story_19: thank
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* thank
+    - utter_thank
+
+## story_12: language
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_language
+    - utter_master_language
+
+## story_4: application_period
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_language
+    - utter_master_language
+* master_application_period
+    - utter_master_application_period
+
+## story_22: degree + application_period + duration + location + bye
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_19: thank
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+
+## story_11: how_to_apply
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_11: how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* thank
+    - utter_thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_11: how_to_apply
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_19: thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+
+## story_19: thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+* master_application_period
+    - utter_master_application_period
+* thank
+    - utter_thank
+
+## story_22: degree + application_period + duration + location + bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+
+## story_4: application_period
+* thank
+    - utter_thank
+* master_application_period
+    - utter_master_application_period
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_application_period
+    - utter_master_application_period
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_20: greet + program_content + language + thank + good_deny + bye
+* thank
+    - utter_thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+
+## story_29: greet + program_content + semester_content + electives + start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* good_deny
+    - utter_bye
+* master_how_to_apply
+    - utter_master_how_to_apply
+* greet
+    - utter_greet
+* master_program_content
+    - utter_master_program_content
+* master_semester_content
+    - utter_master_semester_one_subjects
+    - utter_master_semester_three_subjects
+    - utter_master_semester_two_subjects
+* master_electives
+    - utter_master_electives
+* master_start
+    - utter_master_start
+
+## story_11: how_to_apply
+* master_language
+    - utter_master_language
+* thank
+    - utter_thank
+* master_how_to_apply
+    - utter_master_how_to_apply
+
+## story_19: thank
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* master_degree
+    - utter_master_degree
+* master_application_period
+    - utter_master_application_period
+* master_duration
+    - utter_master_duration
+* master_location
+    - utter_master_location
+* bye
+    - utter_bye
+* thank
+    - utter_thank
+
+## story_4: application_period
+* master_application_period
+    - utter_master_application_period
+* master_application_period
+    - utter_master_application_period
+

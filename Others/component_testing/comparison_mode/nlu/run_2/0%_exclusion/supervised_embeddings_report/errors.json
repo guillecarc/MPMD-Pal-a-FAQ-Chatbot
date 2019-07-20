@@ -1,0 +1,34 @@
+[
+  {
+    "text": "i dont infer you can do what i need",
+    "intent": "canthelp",
+    "intent_prediction": {
+      "name": "master_how_to_apply",
+      "confidence": 0.46008867025375366
+    }
+  },
+  {
+    "text": "i must know which relating to the requirements",
+    "intent": "master_admission_requirements",
+    "intent_prediction": {
+      "name": "master_tuition_fees",
+      "confidence": 0.46543020009994507
+    }
+  },
+  {
+    "text": "cheers bro",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "cheers",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  }
+]

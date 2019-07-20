@@ -1,0 +1,134 @@
+{
+  "canthelp": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20
+  },
+  "greet": {
+    "precision": 0.9444444444444444,
+    "recall": 0.85,
+    "f1-score": 0.8947368421052632,
+    "support": 20
+  },
+  "master_admission_requirements": {
+    "precision": 0.95,
+    "recall": 0.95,
+    "f1-score": 0.9500000000000001,
+    "support": 20
+  },
+  "master_application_period": {
+    "precision": 1.0,
+    "recall": 0.9,
+    "f1-score": 0.9473684210526316,
+    "support": 20
+  },
+  "master_career_opportunities": {
+    "precision": 0.9523809523809523,
+    "recall": 1.0,
+    "f1-score": 0.975609756097561,
+    "support": 20
+  },
+  "master_contact": {
+    "precision": 1.0,
+    "recall": 0.95,
+    "f1-score": 0.9743589743589743,
+    "support": 20
+  },
+  "master_degree": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20
+  },
+  "master_duration": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20
+  },
+  "master_electives": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20
+  },
+  "master_further_qualification_opportunities": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20
+  },
+  "master_how_to_apply": {
+    "precision": 0.8,
+    "recall": 0.8,
+    "f1-score": 0.8000000000000002,
+    "support": 5
+  },
+  "master_language": {
+    "precision": 0.9047619047619048,
+    "recall": 0.95,
+    "f1-score": 0.9268292682926829,
+    "support": 20
+  },
+  "master_location": {
+    "precision": 0.9090909090909091,
+    "recall": 1.0,
+    "f1-score": 0.9523809523809523,
+    "support": 20
+  },
+  "master_program_content": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20
+  },
+  "master_scholarships": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20
+  },
+  "master_semester_content": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20
+  },
+  "master_start": {
+    "precision": 0.9090909090909091,
+    "recall": 1.0,
+    "f1-score": 0.9523809523809523,
+    "support": 20
+  },
+  "master_tuition_fees": {
+    "precision": 0.9473684210526315,
+    "recall": 0.9,
+    "f1-score": 0.9230769230769231,
+    "support": 20
+  },
+  "thank": {
+    "precision": 0.8333333333333334,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.8333333333333334,
+    "support": 6
+  },
+  "micro avg": {
+    "precision": 0.9658119658119658,
+    "recall": 0.9658119658119658,
+    "f1-score": 0.9658119658119658,
+    "support": 351
+  },
+  "macro avg": {
+    "precision": 0.9552879407450043,
+    "recall": 0.9543859649122804,
+    "f1-score": 0.9542144959515406,
+    "support": 351
+  },
+  "weighted avg": {
+    "precision": 0.9667884638644871,
+    "recall": 0.9658119658119658,
+    "f1-score": 0.9656263299000535,
+    "support": 351
+  }
+}

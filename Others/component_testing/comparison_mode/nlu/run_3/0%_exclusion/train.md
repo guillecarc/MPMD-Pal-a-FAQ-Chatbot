@@ -1,0 +1,1436 @@
+## intent:canthelp
+- this chat is not honestly determinant
+- great i feel you cant guide me
+- perfect i guess you cant help me
+- ok then you cannot advice me
+- i assume you cannot guide me
+- i assume you cant aid me then
+- i think you cannot help me then
+- cool then you can't assist me
+- i guess you cannot advice me
+- perfect but that doesnt advice me
+- excellent i predict you cannot support me
+- perfect i guess you cannot support me
+- i feel you cant assist me
+- this consultation isn't honestly helpful
+- nice i infer you cannot support me
+- nice i predict you cant assist me
+- i predict you can't assist me
+- great i feel you can't help me
+- perfect i suppose you can't guide me
+- this conversation is not literally convenient
+- i think you can't aid me then
+- excellent i feel you can't advice me
+- ok i think you can't guide me
+- cool i suppose you cant assist me
+- nice i suppose you can't help me
+- cool i suppose you cannot advice me
+- i suppose you cannot aid me then
+- perfect but that doesnt guide me
+- ok then you cant guide me
+- this chat isn't certainly convenient
+- do you get anything?
+- i assume you cant help me
+- excellent but that doesn't assist me
+- this conversation isn't literally determinant
+- great then you cant aid me
+- this conversation is not certainly valuable
+- great i guess you cant help me
+- this conversation isnt really favorable
+- i suppose you can't support me
+- amazing i suppose you cannot aid me
+- excellent i predict you can't assist me
+- cool i infer you cannot guide me
+- great i think you cant help me
+- this conversation isnt honestly convenient
+- i predict you cant help me
+- great i assume you cannot assist me
+- amazing i infer you cant assist me
+- this conversation isnt honestly valuable
+- i predict you can't help me
+- ok then you can't help me
+- perfect i predict you cant support me
+- this conversation isnt honestly determinant
+- great i think you cannot support me
+- i feel you can't guide me
+- great i infer you cannot help me
+- great i feel you cannot assist me
+- cool i infer you cannot aid me
+- amazing but that doesn't aid me
+- you cannot help me
+- nice i predict you cannot aid me
+- great i predict you cant advice me
+- perfect i assume you cannot aid me
+- perfect i infer you cannot help me
+- perfect but that doesnt support me
+- i feel you cannot support me then
+- great but that doesnt assist me
+- this chat isnt literally valuable
+- i assume you cant support me then
+- this consultation isnt literally helpful
+- i think you cant help me
+- excellent i think you can't guide me
+- great i guess you can't guide me
+- great i suppose you cannot guide me
+- excellent i predict you cannot assist me
+- i predict you cant support me then
+- i dont infer you can do what i need
+- this chat isnt literally constructive
+- amazing i predict you cannot assist me
+- amazing i feel you cannot aid me
+- this chat isn't literally convenient
+
+## intent:greet
+- hola it is me again
+- good afternoon again
+- yo
+- hello hello let's talk
+- heyho it is me again
+- hola friend
+- good morning again
+- what's up is anybody there
+- good morning folks
+- heyho dude
+- hi hi pal!
+- he-yo everybody
+- hey again
+- good evening folks
+- he-yo robot
+- greetings
+- Well hallo there ;)
+- hey friend
+- hi dude
+- whats up robot
+- hallo there
+- heya friend
+- heyho bot
+- he-yo it is me again
+- what's up it is me again
+- good morning pal!
+- Well hi hi there ;)
+- heya let's talk
+- hola bot
+- hallo it is me again
+- howdy there
+- what's up everybody
+- heya is anybody there
+- he-yo is anybody there
+- he-yo again
+- hey MPMD pal
+- hello dude
+- whats up friend
+- heya again
+- hi hi it is me again
+- howdy
+- hola MPMD pal
+- heya
+- yo MPMD pal
+- heyho again
+- what's up there
+- hey robot
+- hello
+- Well hello hello there ;)
+- hey
+- hello hello friend
+- hi bot
+- howdy MPMD pal
+- hallo folks
+- hello hello again
+- good evening is anybody there
+- yo friend
+- yo dude
+- hi hi bot
+- good evening dude
+- hola folks
+- hi hi
+- good morning dude
+- hello there
+- whats up is anybody there
+- what's up
+- howdy pal!
+- hey there
+- heyho robot
+- good evening there
+- he-yo folks
+- heya everybody
+- heya there
+- yo again
+- good morning friend
+- hallo again
+- Well hola there ;)
+- hey hey friend
+- whats up
+- hola dude
+
+## intent:master_admission_requirements
+- i need to know which in the matter of the musts
+- i would like to know what are the conditions I need to have to be qualified to the master
+- i must know which are the criteria I need to have to be accepted to the MPMD
+- I am interested in your program, is there any particular aceptance conditions
+- i want to know what are the requirements I need to have to be qualified to the program
+- i would like to know what me in the matter of the admission requirements
+- what are the essentials I need to have to be acknowledged to the MPMD
+- which are the essentials to get welcomed
+- i must know what are the requirements I need to have to be eligible to the master
+- i must know what referring to the preconditions
+- i want to know what fulfillments do I need to have to be authorized
+- i would like to know which do I need to be authorized
+- i need to know which are the criteria I need to have to be acknowledged to the programm
+- i need to know what with respect to the conditions
+- what concerning to the requisites
+- i must know which exigencies do I need to have to be accepted
+- i would like to know which are the conditions I need to have to be acknowledged to the master
+- i must know which do I need to have to be eligible
+- i need to know what are the preconditions to get welcomed
+- i need to know what criteria do I need to have to be eligible
+- i need to know what me respecting the admission requirements
+- i must know what conditions do I need to have to be confirmed
+- what are the conditions I need to have to be qualified to the master
+- i need to know which do I need to be eligible
+- i need to know what are the requisites to get acknowledged
+- i would like to know what are the qualifications I need to have to be chosen to the program
+- i want to know what are the conditions I need to have to be approved to the MPMD
+- i would like to know what me with the relevance to the admission prerequisites
+- i would like to know which do I need to get recognized
+- i need to know which musts do I need to have to be eligible
+- i would like to know which are the qualifications I need to have to be suitable to the programm
+- i want to know which entrance essentials is there
+- what are the requirements to get confirmed
+- i would like to know which preconditions do I need to have to be authorized
+- i need to know what are the requisites to get suitable
+- i want to know which are the essentials I need to have to be confirmed to the program
+- i must know which are the musts I need to have to be chosen to the programm
+- i would like to know what regarding to the preconditions
+- i want to know what are the exigencies I need to have to be chosen to the MPMD
+- i must know what are the conditions I need to have to be acknowledged to the programm
+- i need to know which are the preconditions I need to have to be accepted to the master
+- i need to know what are the preconditions I need to have to be acknowledged to the program
+- which are the requirements to get chosen
+- I am interested in your MPMD, is there any special aceptance preconditions
+- i would like to know which criteria do I need to have to be qualified
+- I am interested in your programm, is there any particular admission conditions
+- i want to know what do I need to be welcomed
+- which are the exigencies I need to have to be chosen to the master
+- what are the preconditions I need to have to be suitable to the programm
+- i must know which me concerning to the admission criteria
+- i want to know which regarding to the conditions
+- i want to know what are the criteria I need to have to be acknowledged to the MPMD
+- i want to know which regarding to the fulfillments
+- what admittance preconditions is there
+- i would like to know what me with regards to the admission fulfillments
+- i would like to know what are the qualifications I need to have to be approved to the programm
+- i need to know what prerequisites do I need to have to be acknowledged
+- i want to know what with respect to the requisites
+- which are the requirements to get approved
+- which criteria do I need to have to be recognized
+- i must know which relating to the requirements
+- i want to know what are the criteria I need to have to be chosen to the MPMD
+- i want to know what qualifications do I need to have to be chosen
+- i need to know what are the conditions to get confirmed
+- i must know which me in the matter of the admission requirements
+- i must know what are the preconditions I need to have to be accepted to the MPMD
+- I am interested in your master, is there any specific aceptance conditions
+- i need to know which are the qualifications I need to have to be authorized to the MPMD
+- i must know which are the fulfillments to get accepted
+- i must know which are the requisites I need to have to be chosen to the program
+- what are the requirements I need to have to be chosen to the MPMD
+- i would like to know what are the musts to get accepted
+- what are the prerequisites I need to have to be welcomed to the programm
+- i want to know what are the preconditions I need to have to be acknowledged to the program
+- I am interested in your MPMD, is there any specific admission requisites
+- i must know what are the conditions I need to have to be suitable to the MPMD
+- i need to know which admission musts is there
+- i must know what do I need to get qualified
+- I am interested in your MPMD, is there any special entrance musts
+- I am interested in your master, is there any particular entrance qualifications
+
+## intent:master_application_period
+- i need to know when could I apply
+- i want to know how long is the application deadline available
+- i want to know how long till the application ends
+- i need to know when is the application period beginning
+- i want to know how long till the formal application ends
+- how long is the application target date available
+- i must know when is the deadline for the formal application
+- i would like to know when is the limit for the formal application
+- i must know how long is the application target date available
+- when is the deadline for the formal application
+- i would like to know how long is the application time frame accesible
+- i need to know how long until the formal application finishes
+- i need to know how long is the formal application limit open
+- can I apply next month
+- i must know how long is the formal application limit open
+- i want to know when is the formal application interval opening
+- i must know how long till the application finishes
+- i would like to know how long is the formal application time limit accesible
+- i must know how long till the formal application concludes
+- i must know when is the application period beginning
+- how long is the application deadline open
+- i need to know what is the deadline for the application
+- i must know which is the time frame for the formal application
+- i need to know how long is the application time limit open
+- i must know how long is the application time frame available
+- how long until the formal application concludes
+- i need to know which is the limit for the application
+- how long is the application deadline available
+- i must know which is the period for the application
+- i need to know how long is the application limit available
+- i would like to know which is the target date for the application
+- i need to know when should I apply
+- i must know when is the time frame for the application
+- i need to know how long is the application period open
+- i want to know when is the period for the formal application
+- i need to know how long is the formal application time frame available
+- i must know when is the formal application period beginning
+- i need to know what is the target date for the formal application
+- i would like to know what is the deadline for the formal application
+- i would like to know when is the application period opening
+- i want to know how long is the formal application target date accesible
+- i want to know when is the application period opening
+- i must know how long is the application period accesible
+- i want to know when is the limit for the application
+- how long till the formal application closes
+- i need to know when is the formal application interval opening
+- i would like to know how long is the application time limit available
+- i would like to know what is the period for the formal application
+- i would like to know how long until the formal application finishes
+- what is the limit for the formal application
+- i need to know when is the last day to make a formal application
+- i need to know what is the limit for the formal application
+- i need to know how long till the application ends
+- i need to know how long is the application time limit accesible
+- i want to know when is the formal application interval beginning
+- i would like to know how long till the formal application ends
+- i need to know how long is the application time frame accesible
+- i would like to know which is the limit for the application
+- i must know what is the time limit for the formal application
+- can I make a formal application next week
+- i must know how long until the application finishes
+- i want to know how long is the application time frame accesible
+- how long till the application closes
+- i would like to know how long is the formal application time frame open
+- i want to know which is the time limit for the application
+- i need to know what is the time frame for the application
+- i need to know when is the application interval opening
+- i want to know what is the time limit for the application
+- i want to know which is the deadline for the application
+- i need to know how long till the formal application finishes
+- i must know how long is the application target date open
+- i must know which is the period for the formal application
+- i want to know how long till the formal application concludes
+- i want to know what is the deadline for the formal application
+- i want to know how long is the formal application time limit available
+- i want to know when is the formal application interval starting
+- i must know how long is the application time frame accesible
+- when could I make a formal application
+- i want to know how long until the formal application ends
+- i want to know when is the application period beginning
+
+## intent:master_career_opportunities
+- i need to know where can i develop myself subsequently completing the MPMD
+- i would like to know which opportunities can I hold once I graduate from the program
+- where can i establish myself afterwards finishing the programm
+- where can i progress personally after completing the program
+- i must know where can i develop myself afterwards achieving the programm
+- where can i establish personally afterwards ending the programm
+- i would like to know which are the career opportunities out there after this programm
+- i must know what opportunities can I possess once I attain from the programm
+- i want to know where can i foster personally subsequently finishing the programm
+- i want to know where can i develop myself subsequently finishing the master
+- i must know where can i develop myself after completing the program
+- where can i progress personally subsequently achieving the master
+- i would like to know what opportunities can I hold once I achieve from the master
+- i must know where can i flourish personally subsequently concluding the master
+- i would like to know where can i establish personally subsequently completing the MPMD
+- i want to know which opportunities can I have once I conclude from the MPMD
+- i need to know where can i flourish myself after finishing the program
+- i need to know what opportunities can I hold once I graduate from the program
+- i need to know where can i develop personally subsequently concluding the master
+- i want to know where can i establish myself after finishing the program
+- i need to know where can i establish personally subsequently achieving the program
+- i would like to know where can i develop personally subsequently completing the master
+- i need to know where can i foster myself later finalizing the master
+- i must know which industries can I apply after graduation?
+- i must know where can i progress personally after finishing the MPMD
+- i need to know where can i establish myself subsequently completing the master
+- i need to know what opportunities can I hold once I end from the program
+- i must know where can i foster personally later ending the master
+- i need to know what opportunities can I have once I end from the program
+- i want to know where can i flourish myself subsequently finishing the MPMD
+- i must know where can i develop personally after ending the master
+- i must know what opportunities can I have once I finish from the MPMD
+- i need to know which opportunities can I retain once I end from the master
+- i must know where can i develop myself subsequently finishing the master
+- where can i develop myself afterwards achieving the program
+- i would like to know where can i progress myself subsequently concluding the programm
+- where can i foster myself later finalizing the programm
+- where can i flourish myself after concluding the master
+- which opportunities can I possess once I achieve from the MPMD
+- i would like to know where can i foster personally after finalizing the programm
+- i would like to know where can i foster myself subsequently finishing the MPMD
+- i would like to know where can i establish myself afterwards completing the master
+- i would like to know what opportunities can I retain once I achieve from the MPMD
+- i need to know what opportunities can I hold once I graduate from the MPMD
+- i must know what opportunities can I possess once I attain from the master
+- i need to know what opportunities can I have once I finish from the program
+- i want to know where can i develop myself after finishing the program
+- i must know where can i develop personally after achieving the master
+- i would like to know where can i progress personally later concluding the programm
+- i would like to know where can i progress myself after ending the master
+- i want to know where can i progress personally afterwards achieving the programm
+- i want to know where can i progress personally after completing the programm
+- i must know what opportunities can I hold once I end from the MPMD
+- i need to know where can i foster personally afterwards ending the programm
+- what fields can I apply after graduation?
+- i must know where can i flourish myself later finishing the program
+- i need to know what opportunities can I hold once I achieve from the MPMD
+- i want to know where can i progress myself subsequently concluding the master
+- i want to know where can i foster personally subsequently achieving the program
+- i must know where can i foster personally subsequently ending the programm
+- i must know where can i progress personally subsequently completing the master
+- where can i develop personally after concluding the MPMD
+- i would like to know where can i flourish personally afterwards achieving the programm
+- i must know what industries can I apply after graduation?
+- i would like to know where can i foster personally after ending the program
+- where can i progress myself afterwards concluding the programm
+- i would like to know where can i establish myself later completing the master
+- i must know where can i progress myself subsequently achieving the master
+- where can i progress myself subsequently achieving the program
+- i need to know where can i develop myself later finalizing the MPMD
+- i would like to know where can i establish personally afterwards concluding the program
+- i would like to know which opportunities can I have once I finish from the program
+- i must know where can i establish personally afterwards concluding the MPMD
+- i need to know which opportunities can I possess once I graduate from the programm
+- i must know where can i flourish personally afterwards finishing the master
+- i would like to know where can i foster personally later ending the program
+- i must know where can i flourish myself subsequently finalizing the master
+- i need to know where can i develop myself after ending the MPMD
+- i would like to know where can i develop personally afterwards achieving the program
+- i must know where can i foster personally later finalizing the programm
+
+## intent:master_contact
+- can you bestow me any e-mail address to text or telephone to call the programm'sfaculty
+- can you bestow me any e-mail to communicate with or phone to contact the master'sassistant
+- can you provide me any post to chat with or phone to communicate with the programm manager
+- can you bestow me any mail address to text or dial to contact the program'sstaff
+- can you offer me any mail address to communicate with or dial to call the master'steam
+- do you have any phone to communicate with or mail to chat with the programm'sadministration
+- do you have any mobile number to talk to or post mail to talk to the programm'sadministration
+- can you grant me any mobile number to communicate with or e-mail to connect with the programm'spersonnel
+- do you have any telephone number to contact or e-mail address to write the program'sfaculty
+- can you confer me any mail address to write or telephone to talk to the master'screw
+- do you have any e-mail address to talk to or phone to connect with the program'sadministration
+- can you grant me any mobile number to connect with or e-mail address to communicate with the program manager
+- can you grant me any e-mail address to text or telephone number to contact the programm'sassistant
+- can you provide me any telephone to call or e-mail to text the programm'sfaculty
+- do you have any mobile number to talk to or mail to text the program'sassistant
+- can you grant me any mail to compose a message to or dial to talk to the program'sfaculty
+- can you grant me any telephone number to contact or e-mail address to write the programm'sadministration
+- can you bestow me any mail to compose a message to or number to communicate with the master'screw
+- can you offer me any phone to connect with or mail to text the program'sadministration
+- can you offer me any e-mail to text or number to communicate with the program'sadministration
+- can you confer me any number to communicate with or post mail to text the master'spersonnel
+- do you have any mail to talk to or phone to connect with the program'sfaculty
+- do you have any post mail to communicate with or phone to call the master'spersonnel
+- can you confer me any e-mail to chat with or mobile number to connect with the programm'sstaff
+- can you provide me any phone to communicate with or e-mail address to contact the master'sassistant
+- can you offer me any telephone to talk to or mail address to chat with the programm'sfaculty
+- i need to know how can I connect with the programm manager
+- can you offer me any post to contact or phone to talk to the master'sadministration
+- can you confer me any mail to communicate with or number to call the programm'spersonnel
+- can you grant me any post to chat with or dial to communicate with the programm'sfaculty
+- can you bestow me any dial to call or mail address to connect with the programm'spersonnel
+- can you grant me any telephone number to communicate with or mail to communicate with the programm'speople
+- can you grant me any telephone to connect with or mail to connect with the program'sfaculty
+- can you offer me any e-mail address to communicate with or phone to talk to the program'screw
+- can you offer me any mail to text or dial to contact the program manager
+- can you provide me any telephone to contact or mail address to talk to the program'sadministration
+- can you confer me any telephone to call or mail address to talk to the master'screw
+- can you grant me any dial to connect with or post mail to chat with the program'sstaff
+- do you have any post to communicate with or mobile number to call the program'screw
+- can you grant me any e-mail to chat with or telephone number to communicate with the programm manager
+- do you have any mail to communicate with or phone to communicate with the master'spersonnel
+- do you have any phone to call or e-mail to text the master'sadministration
+- can you bestow me any mobile number to connect with or post to contact the program'sassistant
+- do you have any telephone number to connect with or mail address to contact the programm'spersonnel
+- can you provide me any phone to call or post mail to contact the program'sadministration
+- do you have any telephone number to contact or post to connect with the master'sassistant
+- can you provide me any e-mail to connect with or dial to call the program'speople
+- can you confer me any telephone number to connect with or mail to compose a message to the program manager
+- i would like to know how could I contact the master'sfaculty
+- do you have any dial to connect with or mail to communicate with the program manager
+- can you confer me any e-mail address to write or number to communicate with the program'sassistant
+- can you grant me any mail to text or phone to communicate with the master'sadministration
+- can you confer me any telephone to communicate with or mail to connect with the programm manager
+- can you confer me any phone to communicate with or e-mail address to connect with the master'spersonnel
+- can you provide me any telephone to communicate with or mail address to chat with the programm manager
+- do you have any mail address to connect with or phone to call the programm'steam
+- can you grant me any e-mail to write or telephone to communicate with the programm'sassistant
+- can you bestow me any mail to chat with or telephone number to connect with the master'sassistant
+- do you have any mobile number to talk to or post mail to connect with the programm'sstaff
+- can you bestow me any e-mail address to contact or dial to talk to the master'sfaculty
+- can you offer me any phone to connect with or mail to talk to the program'sstaff
+- can you grant me any telephone number to talk to or post mail to write the program'sadministration
+- do you have any e-mail address to communicate with or mobile number to call the program'sadministration
+- can you provide me any number to talk to or e-mail address to text the master'speople
+- can you grant me any number to talk to or post to write the program'sfaculty
+- can you grant me any mail address to communicate with or mobile number to talk to the program'steam
+- can you bestow me any e-mail address to talk to or telephone to talk to the programm'sassistant
+- can you provide me any telephone number to connect with or e-mail address to chat with the programm'spersonnel
+- can you confer me any dial to call or e-mail to connect with the programm'sassistant
+- can you bestow me any e-mail address to talk to or phone to communicate with the master'spersonnel
+- can you grant me any telephone number to communicate with or mail to talk to the program'sfaculty
+- can you offer me any e-mail address to write or telephone to communicate with the master'sfaculty
+- can you confer me any dial to contact or mail to compose a message to the master'steam
+- can you bestow me any number to communicate with or e-mail to text the programm'steam
+- can you grant me any e-mail to compose a message to or telephone to talk to the program'spersonnel
+- can you confer me any mobile number to connect with or e-mail address to communicate with the program'steam
+- do you have any post to communicate with or phone to contact the master'sstaff
+- do you have any e-mail address to communicate with or telephone number to contact the programm manager
+- can you confer me any e-mail address to write or telephone to communicate with the program'sadministration
+- do you have any mobile number to contact or e-mail to text the program'speople
+
+## intent:master_degree
+- i want to know what with regards to the degree the MPMD bestow
+- i need to know which is the title the holder possess
+- what in the matter of the title the programm confer
+- would I possess a valid master degree after achieving this MPMD
+- i want to know what is the diploma the student get
+- i need to know which would be my master's diploma when I achieve
+- i want to know which is the title the student possess
+- what is the degree i retain with the master
+- i need to know what respecting the title the programm offer
+- i would like to know what in the matter of the diploma the program grant
+- i want to know what would be my master's title when I graduate
+- i want to know which respecting the title the MPMD offer
+- i need to know which referring to the degree the MPMD bestow
+- i must know which relating to the title the master provide
+- i need to know which respecting the title the MPMD confer
+- i must know which would be my programm's degree when I graduate
+- which respecting the degree the program confer
+- i need to know what with regards to the degree the MPMD confer
+- i want to know what diploma does the master confer
+- i must know which degree will I achieve
+- i must know what referring to the degree the program bestow
+- i want to know what relating to the degree the program provide
+- i must know what respecting the degree the program grant
+- i need to know what respecting the degree the program grant
+- i need to know which with respect to the title the programm provide
+- i want to know what title does the programm confer
+- i need to know which relating to the degree the program grant
+- i want to know which is the program's title type?
+- i must know which about the degree the MPMD bestow
+- i must know what is the degree of the program i will get
+- which with regards to the title the MPMD grant
+- what about the title the programm offer
+- i must know which is the diploma the student obtain
+- i want to know what is the title the student hold
+- i must know what is the diploma the alumnus gain
+- i must know what title does the programm grant
+- which is the degree of the program i will retain
+- i need to know what is the title of the program i will get
+- i need to know which relating to the diploma the master grant
+- would I get a valid master degree after completing this programm
+- i need to know which will be my program's degree when I graduate
+- i would like to know which with respect to the title the programm confer
+- i want to know which respecting the degree the MPMD provide
+- what regarding to the degree the programm offer
+- which is the diploma the students achieve
+- i want to know what concerning to the degree the MPMD provide
+- i want to know which is the title i get with the program
+- i must know which regarding to the title the MPMD bestow
+- i want to know which degree does the master grant
+- what concerning to the degree the master offer
+- what in the matter of the title the program provide
+- i want to know which with regards to the title the programm grant
+- i would like to know which will be my master's degree when I graduate
+- i need to know which concerning to the diploma the program confer
+- i must know what title does the master offer
+- what respecting the title the MPMD grant
+- i want to know which concerning to the title the master grant
+- i must know what with regards to the diploma the programm grant
+- i would like to know what with regards to the diploma the MPMD confer
+- which is the title the students gain
+- what in the matter of the degree the MPMD offer
+- i want to know what in the matter of the title the programm grant
+- i must know what would be my program's title when I conclude
+- which is the diploma of the programm i will gain
+- i want to know which is the official degree
+- i want to know which regarding to the title the programm confer
+- what will be my programm's diploma when I graduate
+- which with respect to the title the programm offer
+- i would like to know what in the matter of the title the master offer
+- i need to know which with regards to the title the MPMD provide
+- what with the relevance to the title the master provide
+- i must know what regarding to the diploma the programm confer
+- i would like to know what diploma does the master offer
+- i must know which is the diploma the holder hold
+- i must know which is the diploma
+- i want to know which referring to the degree the programm confer
+- i need to know which would be my master's diploma when I graduate
+- i need to know what with the relevance to the degree the master offer
+- what is the title of the programm i will get
+- i want to know what in the matter of the title the MPMD offer
+
+## intent:master_duration
+- i must know which referring to the programm's duration
+- i want to know how many semesters do the program retain
+- how many days of duration
+- i want to know how long does the master take to conclude
+- i want to know what with the relevance to the program's duration
+- i would like to know how many periods do the MPMD hold
+- i must know how long does the master take to finish
+- i need to know how many minutes is the master
+- i want to know how many hours do the programm last
+- how long does the master take to finish
+- i would like to know how many hours is the MPMD
+- i want to know how many days do the program last
+- how many minutes is the MPMD
+- i want to know how many periods do the programm have
+- i want to know which with regards to the programm's duration
+- i need to know what relating to the master's duration
+- tell me in the matter of the program's duration
+- i want to know how many periods do the programm hold
+- i would like to know how many days do the program last
+- i would like to know what in the matter of the program's duration
+- i would like to know what in the matter of the programm's duration
+- how many periods do the MPMD hold
+- i must know how many periods do the programm have
+- i must know how long does the programm take to end
+- tell me about the program's duration
+- i must know what with the relevance to the programm's duration
+- how long does the master take to achieve
+- i would like to know how many minutes is the master
+- how long does it take to achieve
+- i would like to know how long does it take to achieve
+- i must know how many courses do the program possess
+- how many courses do the master retain
+- how long does the programm take to achieve
+- how many hours is the master
+- i must know how many periods do the master possess
+- what concerning to the programm's duration
+- i would like to know how long does the master take to attain
+- what with regards to the program's duration
+- i must know how many semesters do the programm have
+- i would like to know which concerning to the programm's duration
+- i need to know how many periods do the programm retain
+- i need to know how many periods do the program possess
+- i need to know how many days do the master last
+- i must know which concerning to the master's duration
+- i need to know how many semesters
+- i must know how many days is the program
+- what with the relevance to the program's duration
+- how long does the programm take?
+- i need to know what relating to the programm's duration
+- i want to know how many days is the programm
+- how long does the program take to end
+- i must know how many months do the program last
+- i want to know which relating to the programm's duration
+- i would like to know how long does the programm take to finish
+- i must know how many periods do the program hold
+- i must know which regarding to the programm's duration
+- i need to know what referring to the programm's duration
+- how many months is the master
+- i want to know how many minutes do the programm last
+- how many courses do the master hold
+- i must know how long does the programm take to graduate
+- i must know how many semesters do the master hold
+- how many semesters do the programm hold
+- i want to know how many semesters do the programm possess
+- i would like to know how many months do the master last
+- i want to know what about the programm's duration
+- how many semesters do the master possess
+- tell me with regards to the program's duration
+- i would like to know which concerning to the master's duration
+- i must know what relating to the programm's duration
+- i must know how many courses do the master possess
+- i want to know how many periods do the programm possess
+- which with regards to the program's duration
+- i would like to know how many minutes do the programm last
+- i must know which in the matter of the programm's duration
+- how many semesters do the master hold
+- i would like to know how many months is the MPMD
+- i would like to know how long does the MPMD take to achieve
+- i want to know how many periods do the master retain
+- how long does the MPMD take?
+
+## intent:master_electives
+- i would like to know what electives pensum could i choose
+- Tell me with respect to the electives
+- i must know what are the electives pensum
+- i would like to know what electives subjects can i choose
+- i want to know what are the electives courses the MPMD has
+- i must know which electives classes could i choose
+- i must know what electives lectures could i select
+- which electives courses could i choose
+- Tell me with respect to the electives subjects in the program
+- Tell me with regards to the electives subjects in the MPMD
+- Tell me regarding to the electives courses in the master
+- i must know which electives classes can i select
+- i must know what are the electives lectures the MPMD has
+- i must know which electives subjects can i choose
+- Tell me with respect to the electives lectures in the MPMD
+- Tell me respecting the electives in the program
+- i need to know what electives courses can i choose
+- i need to know what electives classes can i choose
+- i need to know what are the electives courses the MPMD has
+- i want to know what electives subjects could i select
+- i must know what electives pensum can i select
+- Tell me respecting the electives lectures in the programm
+- which electives lectures can i select
+- i must know what electives classes can i choose
+- i must know what electives classes can i take
+- Tell me in the matter of the electives pensum in the MPMD
+- Tell me with regards to the electives in the program
+- what electives lectures can i select
+- what electives pensum could i take
+- what electives lectures could i select
+- which electives subjects can i take
+- i would like to know what electives courses could i choose
+- Tell me referring to the electives in the MPMD
+- what electives lectures can i choose
+- i must know which electives could i take
+- i want to know which electives could i select
+- Tell me with regards to the electives lectures in the master
+- Tell me respecting the electives in the master
+- i must know what are the electives the programm has
+- i must know which are the electives courses the programm has
+- Tell me with regards to the electives in the MPMD
+- i need to know what electives lectures can i select
+- i must know which electives pensum can i select
+- i must know which electives pensum could i choose
+- i want to know what are the electives classes the programm has
+- i must know which electives subjects can i select
+- i want to know what are the electives classes the program has
+- i need to know which electives could i take
+- which electives pensum could i choose
+- Tell me regarding to the electives in the program
+- i would like to know what are the electives courses the programm has
+- i must know what are the electives pensum the master has
+- i would like to know which are the electives classes the master has
+- what electives classes could i select
+- Tell me relating to the electives lectures in the master
+- Tell me about the electives pensum
+- i need to know which are the electives subjects the program has
+- i want to know which are the electives courses the master has
+- i would like to know which are the electives classes the MPMD has
+- Tell me concerning to the electives subjects in the master
+- Tell me about the electives pensum in the MPMD
+- i must know which are the electives lectures
+- i need to know what are the electives pensum the programm has
+- which electives pensum can i select
+- Tell me regarding to the electives pensum in the programm
+- Tell me with regards to the electives classes
+- i need to know what are the electives the programm has
+- Tell me relating to the electives subjects in the master
+- Tell me regarding to the electives classes in the program
+- Tell me with regards to the electives courses in the master
+- Tell me with the relevance to the electives lectures
+- i need to know what are the electives classes
+- Tell me concerning to the electives classes in the master
+- i need to know which electives courses can i choose
+- i must know what are the electives pensum the MPMD has
+- i need to know what are the electives lectures
+- i would like to know what electives pensum can i choose
+- which are the electives classes the MPMD has
+- i need to know which are the electives the master has
+- i need to know which electives pensum could i take
+
+## intent:master_further_qualification_opportunities
+- can I begin a doctorate degree with the programm's diploma
+- Are there more opportunities for doctoral studies
+- can I begin a doctorate with the programm's diploma
+- can I make a formal application for a PhD study with the programm's degree
+- can I make a formal application for a doctoral study with the programm's degree
+- Is it possible after graduation of the program to make a formal application for PhD programs
+- can I make a formal application for a doctoral study with the programm's diploma
+- Is it possible after graduation of the program to apply for doctoral programs
+- can I start a PhD with the program's degree
+- can I begin a doctorate with the programm's degree
+- can I apply for a doctoral study with the program's title
+- can I get going a doctorate with the programm's title
+- After this programm, will I be able to apply for a doctorate
+- After this programm, would I be able to apply for a doctorate degree
+- can I start a doctorate degree with the master's diploma
+- Does the program qualify for PhD studies
+- can I start a doctorate degree with the programm's degree
+- can I make a formal application for a PhD study with the program's diploma
+- can I apply for a PhD study with the programm's diploma
+- can I start a PhD with the program's title
+- can I make a formal application for a PhD study with the master's diploma
+- can I start a PhD with the program's diploma
+- can I begin a doctorate degree with the program's title
+- can I begin a PhD with the master's diploma
+- After this master, would I be able to make a formal application for a doctorate degree
+- can I start a doctorate with the master's degree
+- can I get going a doctorate with the master's degree
+- Is it possible after graduation of the master to apply for PhD programs
+- can I apply for a PhD study with the master's degree
+- can I begin a PhD with the programm's diploma
+- After this program, will I be able to apply for a PhD
+- can I apply for a doctoral study with the programm's degree
+- can I get going a doctorate degree with the programm's title
+- After this MPMD, would I be able to apply for a doctorate degree
+- After this master, will I be able to make a formal application for a PhD
+- can I apply for a PhD study with the programm's degree
+- can I apply for a doctoral study with the program's diploma
+- can I start a PhD with the master's degree
+- can I apply for a doctoral study with the master's diploma
+- After this program, will I be able to apply for a doctorate degree
+- can I begin a doctorate degree with the programm's title
+- After this MPMD, will I be able to apply for a doctorate degree
+- can I make a formal application for a doctoral study with the master's degree
+- can I start a PhD with the programm's title
+- can I start a doctorate with the program's diploma
+- Does the master qualify for PhD studies
+- After this program, would I be able to apply for a doctorate
+- After this master, would I be able to make a formal application for a doctorate
+- Is it possible after graduation of the MPMD to apply for PhD programs
+- After this master, will I be able to apply for a doctorate
+- can I apply for a PhD study with the program's diploma
+- After this MPMD, will I be able to make a formal application for a doctorate
+- After this master, would I be able to apply for a PhD
+- can I apply for a doctoral study with the master's title
+- can I begin a PhD with the master's title
+- After this programm, will I be able to make a formal application for a PhD
+- can I get going a doctorate with the program's diploma
+- can I get going a doctorate degree with the program's diploma
+- After this program, would I be able to make a formal application for a doctorate degree
+- can I get going a doctorate degree with the master's title
+- After this programm, would I be able to apply for a doctorate
+- After this MPMD, will I be able to apply for a doctorate
+- After this programm, will I be able to apply for a PhD
+- After this master, will I be able to apply for a doctorate degree
+- can I get going a PhD with the master's title
+- can I begin a PhD with the master's degree
+- After this programm, would I be able to make a formal application for a doctorate
+- can I apply for a doctoral study with the master's degree
+- can I begin a doctorate with the master's diploma
+- can I start a doctorate degree with the master's title
+- can I start a doctorate degree with the programm's title
+- Is it possible after graduation of the program to apply for PhD programs
+- can I make a formal application for a PhD study with the programm's diploma
+- can I begin a doctorate with the program's degree
+- Does the MPMD qualify for doctoral studies
+- After this programm, would I be able to make a formal application for a doctorate degree
+- can I make a formal application for a doctoral study with the program's degree
+- Is it possible after graduation of the master to make a formal application for doctoral programs
+- can I apply for a PhD study with the program's degree
+- can I start a doctorate degree with the program's title
+
+## intent:master_how_to_apply
+- i must know how could i incorporate the program
+- i must know how could i join the program
+- i must know how do I apply?
+- i would like to know how can i start the program
+- i must know how could i incorporate the programm
+- how can i start the master
+- I want to commence the programm
+- how could i commence the programm
+- i would like to know what documents do I need to add to my formal application
+- i need to know how could i incorporate the MPMD
+- i want to know how can i enter the MPMD
+- i must know how could i enter the master
+- i must know how could i enter the programm
+- i want to know how could i incorporate the MPMD
+- i would like to know what documents do I must attach to my application
+- which documents do I need to send besides the application form?
+- i want to know how do I apply?
+
+## intent:master_language
+- tell me with the relevance to the dialect of the MPMD
+- in which idiom is the master bestowed
+- i would like to know which dialect are lectures taught in?
+- what is the dialect in which the program is granted
+- what is the language in which the master is bestowed
+- i want to know what is the dialect in which the master is conferred
+- tell me concerning to the dialect of the master
+- i must know what about the dialect
+- which is the idiom in which the MPMD is granted
+- i would like to know which is the language in which the programm is conferred
+- i need to know what is the dialect in which the master is bestowed
+- which is the language in which the MPMD is bestowed
+- i would like to know which dialect is the programm taught
+- i must know which is the idiom in which the master is conferred
+- which idiom are courses taught in?
+- in which idiom is the program conferred
+- i need to know what language are subjects taught in?
+- what is the dialect in which the MPMD is bestowed
+- i need to know what is the language in which the MPMD is conferred
+- i need to know which is the programm's dialect
+- which is the dialect of the master
+- i must know which is the idiom in which the master is offered
+- i must know which is the idiom in which the MPMD is bestowed
+- i must know what is the dialect in which the MPMD is granted
+- i want to know which is the dialect in which the master is granted
+- which is the master's dialect
+- i want to know what is the language in which the program is bestowed
+- i need to know what about the idiom
+- i want to know what idiom are pensum taught in?
+- i want to know which is the dialect of the programm
+- i want to know which is the program's idiom
+- can I choose the dialect i learn in?
+- i want to know which is the master's language
+- i need to know which is the language in which the MPMD is conferred
+- do i need to know deustch
+- i want to know what is the dialect in which the programm is bestowed
+- which language are subjects taught in?
+- i would like to know which is the language in which the program is bestowed
+- i need to know what is the program's language
+- i need to know what is the language in which the programm is granted
+- what is the dialect in which the MPMD is conferred
+- what is the language in which the master is conferred
+- i need to know what idiom are classes taught in?
+- in which dialect is the master granted
+- i want to know what about the dialect
+- i would like to know which is the dialect of the programm
+- i must know what is the dialect in which the master is granted
+- i want to know what is the idiom of the programm
+- i want to know which is the dialect in which the programm is provided
+- i would like to know what idiom are lectures taught in?
+- i would like to know which idiom are classes taught in?
+- i want to know what language are students speaking?
+- i must know what language is the programm taught
+- i must know which is the dialect in which the program is offered
+- i would like to know which is the language in which the program is conferred
+- i need to know which is the idiom of the programm
+- in which language will i study?
+- what is the dialect in which the program is offered
+- i want to know what language are subjects taught in?
+- what is the dialect in which the programm is granted
+- in which idiom is the master granted
+- i would like to know what is the language in which the program is provided
+- i need to know what about the language
+- i must know what is the idiom
+- i need to know what idiom is the MPMD taught
+- i must know what is the programm's idiom
+- i must know what is the dialect in which the MPMD is bestowed
+- i need to know which is the idiom in which the program is offered
+- i must know what is the language in which the programm is provided
+- i would like to know which is the language in which the programm is bestowed
+- i must know what is the language in which the programm is granted
+- which is the dialect in which the master is offered
+- i must know what is the idiom in which the program is granted
+- which is the programm's dialect
+- in which language is the programm bestowed
+- i must know what is the idiom in which the master is provided
+- tell me about the idiom of the programm
+- i must know what about the language
+- i must know what idiom is the master taught
+- i need to know which is the idiom of the MPMD
+
+## intent:master_location
+- tell me the country where the program is bestowed
+- i need to know what respecting the location
+- i would like to know where is the program bestowed
+- tell me concerning to the city of the program
+- i want to know what respecting the country
+- i must know where will the lectures take place?
+- i must know which about the location
+- where is the master bestowed
+- i would like to know what referring to the location
+- tell me the location where the program is conferred
+- i need to know what concerning to the place
+- i need to know which with the relevance to the city
+- i would like to know where is the MPMD conferred
+- tell me the country where the program is granted
+- what regarding to the place
+- tell me the city where the master is bestowed
+- i must know what in the matter of the city
+- i must know where is the MPMD offered
+- tell me the place where the program is bestowed
+- which in the matter of the place
+- i must know which concerning to the country
+- tell me the place where the master is provided
+- i would like to know which with the relevance to the country
+- i must know where is the campus placed
+- tell me relating to the place of the program
+- i need to know what in the matter of the place
+- i need to know where is the program granted
+- i want to know what with respect to the location
+- where is the programm offered
+- i want to know where is the programm granted
+- tell me the place where the program is conferred
+- tell me about the city of the program
+- where is the MPMD provided
+- what respecting the country
+- in which place is the master
+- tell me referring to the place of the master
+- tell me referring to the country of the MPMD
+- i must know which regarding to the country
+- which concerning to the place
+- i must know where does the programm take place
+- i want to know which with regards to the location
+- i would like to know where is the MPMD granted
+- i need to know which with regards to the country
+- tell me the place where the master is offered
+- tell me the country where the MPMD is offered
+- i want to know what with regards to the location
+- i must know what with the relevance to the place
+- i want to know what regarding to the city
+- i must know what concerning to the place
+- tell me with respect to the country of the program
+- i must know where is the programm conferred
+- Is this an online master? Or I need to to be in Berlin to finish
+- i would like to know which regarding to the country
+- i need to know what relating to the location
+- i must know which concerning to the location
+- i must know where is the master bestowed
+- i must know which with respect to the city
+- i need to know which respecting the place
+- i would like to know where does the master take place
+- tell me respecting the place of the programm
+- tell me in the matter of the location of the programm
+- tell me the place where the programm is bestowed
+- i would like to know which about the place
+- i want to know where is the programm conferred
+- i would like to know where will the pensum take place?
+- where is the master conferred
+- tell me relating to the place of the MPMD
+- tell me the city where the programm is provided
+- which respecting the city
+- what with respect to the city
+- tell me with respect to the country of the MPMD
+- what with the relevance to the city
+- i would like to know what with respect to the place
+- what relating to the place
+- tell me with the relevance to the country of the MPMD
+- i need to know which relating to the country
+- i would like to know which referring to the place
+- tell me in the matter of the country of the MPMD
+- i would like to know which respecting the city
+- tell me with the relevance to the place of the program
+
+## intent:master_program_content
+- what is the master content
+- can you please share more information referring to the MPMD content
+- i want to know more referring to the program
+- Please share data referring to the program
+- can you please share more information with regards to the MPMD content
+- which is the MPMD relating to
+- could you tell more with regards to the MPMD
+- Please share information respecting the program
+- Please share details regarding to the program
+- could you tell more with the relevance to the master
+- i must know what is the master regarding to
+- can you please share more advice in the matter of the master content
+- could you please share more knowledge in the matter of the MPMD content
+- can you please share more knowledge relating to the MPMD content
+- tell me more with regards to the MPMD
+- what is the program in the matter of
+- can you please share more advice about the programm content
+- could you please share more data with regards to the MPMD content
+- Please share advice about the programm
+- i must know what is the programm about
+- Please share data concerning to the master
+- Please share details referring to the programm
+- i must know what is the programm with the relevance to
+- i would like to know more about the master
+- can you please share more details regarding to the MPMD content
+- can you please share more information with regards to the programm content
+- could you please share more advice relating to the master content
+- i must know more regarding to the MPMD
+- could you please share more information referring to the master content
+- Please share details with respect to the MPMD
+- can you tell me what is this program with the relevance to
+- could you please share more advice about the master content
+- could you please share more information with regards to the programm content
+- can you tell more with regards to the MPMD
+- Please share details referring to the MPMD
+- what is the program with regards to
+- can you please share more information regarding to the program content
+- which is the master with the relevance to
+- i want to know what is the MPMD with respect to
+- Please share knowledge with regards to the master
+- can you please share more information with respect to the MPMD content
+- can you please share more information about the program content
+- Please share details with regards to the MPMD
+- can you tell me what is this program with regards to
+- i would like to know which is the MPMD in the matter of
+- i would like to know what is the master with regards to
+- could you please share more advice relating to the MPMD content
+- could you tell me what is this master respecting
+- could you please share more knowledge concerning to the program content
+- i would like to know which is the MPMD with the relevance to
+- which is the MPMD about
+- i would like to know more with the relevance to the master
+- could you please share more details in the matter of the programm content
+- can you please share more knowledge concerning to the master content
+- i want to know more in the matter of the MPMD
+- i want to know what is the MPMD referring to
+- can you tell me what is this programm with regards to
+- Please share information regarding to the program
+- could you please share more details referring to the MPMD content
+- can you please share more knowledge respecting the program content
+- i would like to know more regarding to the programm
+- i would like to know which is the MPMD content
+- i would like to know more with regards to the programm
+- what is the programm with regards to
+- what is the master with the relevance to
+- could you please share more details referring to the programm content
+- i would like to know which is the program with respect to
+- i want to know which is the MPMD with the relevance to
+- i want to know which is the program with regards to
+- i want to know what is the master with respect to
+- i want to know what is the programm with the relevance to
+- can you tell more in the matter of the MPMD
+- i must know what is the program referring to
+- could you tell more referring to the master
+- i need to know more in the matter of the master
+- Please share data regarding to the programm
+- could you please share more advice about the program content
+- i need to know which is the MPMD referring to
+- which is the MPMD content
+- can you tell me what is this master in the matter of
+
+## intent:master_scholarships
+- i want to attain a grant
+- i must know which grant are conferred
+- i need to know how can I apply for a fellowship
+- i need to know when do I know if I have been bestowed a payment
+- i want to obtain a fellowship
+- i want to retain a grant
+- i need to know what scholarship are granted
+- i want to know what fellowship are bestowed
+- i must know what scholarship are offered
+- i would like to know what award are granted
+- Do the payment pay for the entire price
+- i need to know when do I know if I have been offered a scholarship
+- Is there any payment I could apply to study the MPMD
+- Is there any award I could apply to study the program
+- i need to know which fellowship are provided
+- i must know how do I know if I qualify for a award
+- i want to know what fellowship are provided
+- would you offer scholarship
+- which award are provided
+- i must gain a scholarship
+- when do I know if I have been offered a grant
+- which grant are provided
+- do you confer fellowship
+- i would like to know when do I know if I have been offered a grant
+- would you grant award
+- i must retain a scholarship
+- i need to gain a award
+- Do the award pay for the entire tariff
+- i want to know what payment are conferred
+- do you provide scholarship
+- i would like to possess a scholarship
+- i want to gain a payment
+- i must know what payment are offered
+- i would like to know what scholarship are conferred
+- i want to obtain a scholarship
+- i would like to retain a grant
+- i would like to know when do I know if I have been bestowed a award
+- i must know when do I know if I have been granted a award
+- i need to know which payment are granted
+- i need to know what scholarship are offered
+- i would like to achieve a award
+- i want to know which payment are granted
+- i want to possess a payment
+- what scholarship are offered
+- i would like to know how could I apply for a grant
+- when do I know if I have been offered a fellowship
+- i must know how could I apply for a payment
+- i want to know how could I apply for a fellowship
+- Is there any scholarship I can apply to study the master
+- i would like to achieve a fellowship
+- Is there any scholarship I can make a formal application to study the programm
+- i would like to know when do I know if I have been bestowed a fellowship
+- do you grant award
+- which grant are bestowed
+- i must know which award are bestowed
+- what award are conferred
+- what grant are conferred
+- i need to know what award are offered
+- Is there any award I could make a formal application to study the MPMD
+- i would like to know how can I apply for a award
+- Do the award pay for the entire expenditure
+- Do the award pay for the entire payment
+- i would like to possess a grant
+- i would like to know what fellowship are conferred
+- i want to gain a grant
+- i must know when do I know if I have been conferred a payment
+- i need to know which fellowship are bestowed
+- i need to attain a scholarship
+- i would like to know when do I know if I have been provided a grant
+- i want to know what payment are granted
+- i would like to attain a payment
+- how could I apply for a award
+- Is there any scholarship I could apply to study the master
+- i must know how do I know if I qualify for a payment
+- i need to achieve a award
+- Is there any payment I can apply to study the program
+- Do the fellowship pay for the entire charge
+- i would like to hold a scholarship
+- when do I know if I have been provided a scholarship
+- Do the grant pay for the entire value
+
+## intent:master_semester_content
+- which courses does the program provide
+- which classes does the MPMD provide
+- what lectures does the programm bestow
+- i want to know which pensum does the master bestow
+- which courses does the program offer
+- i must know which courses does the MPMD offer
+- i must know which are the subjects in each period
+- i want to know what are the classes in each period
+- what pensum does the MPMD confer
+- i need to know what lectures does the master bestow
+- i would like to know what lectures does the program offer
+- which lectures does the master provide
+- what are the pensum in each period
+- i must know which subjects does the program provide
+- i want to know which courses are in the program
+- what lectures does the master offer
+- i want to know which subjects does the program confer
+- i would like to know which classes does the program confer
+- i want to know which pensum does the program grant
+- i would like to know what classes are in the master
+- i would like to know what courses does the MPMD grant
+- i must know how is the program developed
+- what classes does the master confer
+- i would like to know how is the program organized
+- i need to know what pensum are in the programm
+- i need to know what subjects does the MPMD offer
+- how is the master built
+- which subjects does the program offer
+- i must know which pensum does the program provide
+- i want to know which classes does the programm offer
+- i want to know what lectures does the program provide
+- i need to know what lectures does the MPMD grant
+- i would like to know how is the master conceived
+- could you bestow a list of the pensum
+- i must know how is the master conceived
+- i must know how are the study pensum?
+- i must know what subjects are in the master
+- i would like to know what pensum does the programm provide
+- i would like to know what pensum does the master bestow
+- i want to know what classes does the MPMD provide
+- i want to know how is the programm conceived
+- can you offer a list of the lectures
+- i need to know which pensum does the programm grant
+- i want to know how is the programm organized
+- i want to know what courses does the program offer
+- i want to know which courses does the program grant
+- i must know what courses does the programm offer
+- i want to know how is the program established
+- which subjects are in the program
+- i must know what courses does the MPMD bestow
+- can you offer a list of the courses
+- i must know what lectures does the master confer
+- i want to know which classes does the MPMD grant
+- i want to know which classes are in the MPMD
+- i need to know what lectures does the program confer
+- i want to know which lectures does the MPMD offer
+- which courses does the master confer
+- i want to know what lectures does the master provide
+- i must know what lectures does the master bestow
+- i need to know which classes does the programm provide
+- i want to know which lectures does the programm confer
+- i must know what pensum are in the master
+- what classes does the master offer
+- i must know what lectures does the master provide
+- i need to know which subjects does the programm bestow
+- i must know what courses does the program offer
+- i must know which lectures does the MPMD offer
+- i must know which lectures does the MPMD confer
+- i want to know which courses does the programm provide
+- i must know which courses does the programm grant
+- which classes does the master offer
+- i need to know which classes does the program provide
+- i need to know which pensum does the program bestow
+- i need to know what pensum does the program provide
+- which courses does the program confer
+- i would like to know which subjects does the MPMD confer
+- i need to know how is the programm formed
+- i need to know how is the programm developed
+- which classes are in the MPMD
+- i need to know which classes does the master grant
+
+## intent:master_start
+- i want to know which with the relevance to the program start month
+- i want to know which with regards to the MPMD get going day
+- what relating to the MPMD start month
+- which relating to the programm begin date
+- i want to know which concerning to the master begin day
+- i must know which referring to the master begin year
+- i would like to know what regarding to the master get going week
+- i must know when does the programm start
+- i would like to know which respecting the MPMD get going week
+- i want to know which with the relevance to the programm get going month
+- i must know which regarding to the master get going week
+- i must know which in the matter of the MPMD start date
+- i need to know what about the programm get going week
+- i want to know which with regards to the master get going week
+- i want to know what respecting the program begin week
+- i need to know what regarding to the master start month
+- i must know which relating to the program begin week
+- i want to know which with respect to the MPMD get going month
+- i would like to know what with respect to the programm begin year
+- i would like to know which with regards to the MPMD get going day
+- i want to know which in the matter of the MPMD begin week
+- i would like to know when does the program start
+- i must know which with the relevance to the program start week
+- i want to know what with the relevance to the programm get going day
+- i must know which with respect to the program get going date
+- i want to know which regarding to the programm get going month
+- i want to know which with respect to the programm get going date
+- i want to know what in the matter of the programm get going month
+- i would like to know which about the MPMD get going month
+- i need to know which referring to the master start month
+- i need to know what referring to the program start month
+- which concerning to the program get going month
+- i want to know what respecting the MPMD begin date
+- i must know what respecting the program get going date
+- i would like to know which concerning to the master start month
+- i want to know what concerning to the program get going month
+- i would like to know which regarding to the master start month
+- i want to know which with the relevance to the programm begin year
+- which respecting the programm get going day
+- i must know what with regards to the master begin year
+- which in the matter of the program start day
+- i must know what regarding to the program get going week
+- which respecting the program get going date
+- i need to know which referring to the programm start month
+- i want to know what with respect to the programm begin date
+- i would like to know which referring to the programm start month
+- what referring to the program begin week
+- i must know which concerning to the MPMD get going day
+- i want to know what respecting the program start month
+- i would like to know what with regards to the MPMD begin month
+- i want to know what with the relevance to the master begin month
+- what referring to the program get going week
+- i need to know which relating to the programm get going month
+- i must know what in the matter of the MPMD begin day
+- which respecting the program begin day
+- i would like to know what in the matter of the program begin month
+- i want to know which respecting the programm start year
+- i must know what regarding to the MPMD get going year
+- i must know which with the relevance to the programm get going year
+- which relating to the master start day
+- which respecting the program begin month
+- i need to know which relating to the master begin year
+- i would like to know which in the matter of the programm begin week
+- i must know what about the program begin day
+- i want to know what concerning to the programm begin year
+- i want to know what with respect to the MPMD start year
+- what referring to the MPMD begin week
+- i would like to know what regarding to the MPMD get going month
+- which about the program start year
+- i want to know which in the matter of the master start month
+- i would like to know what with the relevance to the program start month
+- i must know what with regards to the master begin week
+- what referring to the program get going month
+- i need to know what relating to the programm get going year
+- i would like to know what with regards to the program begin day
+- i would like to know what with regards to the programm get going date
+- i need to know what referring to the master start month
+- what with regards to the master start year
+- i need to know what referring to the MPMD start year
+- what with the relevance to the master start year
+
+## intent:master_tuition_fees
+- i must know what is the value that I need to handle
+- i want to know which is the tuition that I need to cover
+- which are payment options to disburse the expenditure
+- which with the relevance to the check
+- i need to know what is the fees that I must meet
+- what in the matter of the check
+- i need to know which is the tariff that I must handle
+- what is the cost that I must account
+- i must know which is the charge that I must pay
+- i would like to know what regarding to the funds
+- i need to know which is the value that I must handle
+- i need to know how much do i have to grant
+- i want to know which is the total charge
+- which is the tariff that I need to grant
+- i need to know which are payment options to disburse the cost
+- i want to know what is the expenditure that I have to grant
+- are the fees required upfront?
+- i want to know what are payment options to handle the amount
+- i need to know what is the tariff that I need to disburse
+- i need to know how much is the payment? What does it compensate?
+- i would like to know what with regards to the payment
+- i need to know which is the value that I have to account
+- i need to know which regarding to the money
+- i must know which are payment options to account the cost
+- i want to know what is the tuition in euros?
+- what is the value that I must disburse
+- i want to know which referring to the capital
+- i want to know what is the payment that I have to transfer
+- what is the tuition that I must disburse
+- i need to know what is the expenditure that I must cover
+- i want to know how many payments are needed to cover off the MPMD
+- i want to know which is the tuition that I have to pay
+- what respecting the payment
+- which is the tariff in euros?
+- what is the tuition that I have to pay
+- i must know how much do i have to cover
+- i want to know which is the tuition that I have to disburse
+- i would like to know which is the tariff that I must compensate
+- what is the total tariff
+- i must know what are payment options to meet the amount
+- could i pay fees per period
+- i would like to know which is the payment that I must handle
+- i need to know which are payment options to pay the fees
+- i must know what are payment options to disburse the tuition
+- which is the charge that I must compensate
+- i need to know what is the charge that I have to meet
+- i must know which with the relevance to the cash
+- i would like to know which are payment options to handle the cost
+- tell me with regards to the installments
+- how much is the tuition? What does it compensate?
+- which referring to the funds
+- which is the fees that I need to meet
+- what is the tuition that I must compensate
+- i need to know what is the tariff that I need to meet
+- i would like to know what is the amount that I must meet
+- i would like to know which is the price that I must account
+- what is the charge that I need to disburse
+- i want to know what are payment options to pay the expenditure
+- i would like to know what are payment options to disburse the price
+- i need to know what is the tariff that I need to compensate
+- i would like to know what is the expenditure in dollars?
+- i must know what is the amount that I must grant
+- i must know how much is the tariff? What does it compensate?
+- i must know how much do i must pay
+- i want to know which is the expenditure in dollars?
+- i want to know what is the payment that I have to handle
+- i need to know which are payment options to handle the tuition
+- i would like to know which are payment options to handle the value
+- Does the program have any tariff
+- i must know how many payments are needed to compensate off the programm
+- which are payment options to transfer the value
+- i need to know how much do i have to transfer
+- which concerning to the check
+- i need to know what is the tariff that I need to account
+- i would like to know which is the value that I must transfer
+- which is the payment that I have to disburse
+- i want to know what is the payment that I must cover
+- which are payment options to meet the amount
+- i need to know how much is the amount? What does it grant?
+- i want to know what is the price that I need to meet
+
+## intent:thank
+- perfect thank you
+- grazie
+- cheers bro
+- ok thank you
+- thanks a bunch for everything
+- thank bot
+- thanks for the help
+- great thank you
+- cool thanks
+- thanks
+- amazing thanks
+- thanks for that
+- cool thank you
+- nice thank you
+- thank you so much
+- excellent thanks
+- danke
+- gracias
+- nice thanks
+- cheers
+- thank you
+- thank
