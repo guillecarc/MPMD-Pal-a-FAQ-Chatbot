@@ -15,7 +15,7 @@ The desing of the chatbot is better represented in the two tables below:
 ## Product Sheet
 
 |Element|Details |
-|---|---|
+|---|:---:|
 |**Name:**|MPMD pal|
 |**Type:**|Frequently Asked Questions (FAQ)|
 |**Purpose:**|Solve questions based on [MPMD HTW Website]("https://mpmd.htw-berlin.de/")|
@@ -29,7 +29,7 @@ The desing of the chatbot is better represented in the two tables below:
 ## Technical Sheet
 
 |Element|Details|
-|---|---:|
+|---|:---:|
 |**Conversational AI**|
 |**Type:**|Retrieval-based|
 |**Intents:**|20|
