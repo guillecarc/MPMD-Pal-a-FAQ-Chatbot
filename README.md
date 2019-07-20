@@ -1,5 +1,15 @@
 # MPMD Pal: a FAQ Chatbot
 
+**Previous knowledge of Rasa Framwework is expected**
+
+To run the model created just type in the command line:
+1. `cd Scripts`
+2. `rasa run actions`
+3. `rasa shell --endpoints.yml`
+
++ 2 and 3 must run simultaneously in the different terminal windows
+
+
 The desing of the chatbot is better represented in the two tables below:
 
 ## Product Sheet
